@@ -78,16 +78,20 @@
       await client.isReady();
       await login(client, "admin", "password");
 
-      progress(5, "Installing inseri-core");
+      progress(5, "Fetching inseri-core");
 
       // Assuming inseri-core.zip is hosted with this HTML file:
       const response = await fetch("./inseri-core.zip");
       const inseriFile = new File([await response.blob()], "inseri-core.zip");
 
+      progress(15, "Installing inseri-core");
+
       await installPlugin(client, inseriFile);
 
+      progress(15, "Starting a new post");
+
       // Redirect to the right landing page
-      // await client.goTo("/wp-admin/");
+      await client.goTo("/wp-admin/post-new.php");
       progress(100, "Finished");
     </script>
   </body>
