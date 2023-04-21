@@ -106,10 +106,10 @@
 
       await installPlugin(client, inseriFile);
 
-      progress(15, "Starting a new post");
+      progress(15, "Edit Hello World post");
 
       // Redirect to the right landing page
-      await client.goTo("/wp-admin/post-new.php");
+      await client.goTo("/wp-admin/post.php?post=1&action=edit");
       progress(100, "Finished");
     </script>
   </body>
