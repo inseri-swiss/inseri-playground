@@ -2,44 +2,6 @@
 <html>
   <head>
     <title>inseri Playground</title>
-    <!-- from https://github.com/akirk/wp-glotpress-playground/blob/main/index.php -->
-    <style>
-      body {
-        font-family: sans-serif;
-      }
-      iframe#wp,
-      div#progress {
-        width: 1200px;
-        height: 800px;
-      }
-      div#progress {
-        position: absolute;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: white;
-        margin: 2em 0.1em;
-        border: 1px solid black;
-        height: 770px;
-      }
-      div#progressinner {
-        width: 600px;
-      }
-      div#progressbarholder {
-        height: 1em;
-        border: 1px solid black;
-      }
-      div#progressbar {
-        width: 0;
-        height: 1em;
-        background: black;
-        transition: opacity linear 0.25s, width ease-in 0.5s;
-      }
-      div#progresstext {
-        text-align: center;
-        margin-top: 0.5em;
-      }
-    </style>
   </head>
   <body>
     <h1>inseri Playground</h1>
@@ -60,57 +22,47 @@
         &#9888;</strong
       >
     </p>
-    <div id="progress">
-      <div id="progressinner">
-        <div id="progressbarholder"><div id="progressbar"></div></div>
-        <div id="progresstext"></div>
-      </div>
-    </div>
     <iframe id="wp" style="width: 1200px; height: 800px"></iframe>
 
+    <script type="importmap">
+      {
+        "imports": {
+          "@wp-playground/client": "https://unpkg.com/@wp-playground/client/index.js"
+        }
+      }
+    </script>
     <script type="module">
       import {
-        connectPlayground,
-        login,
+        startPlaygroundWeb,
         installPlugin,
-      } from "https://unpkg.com/@wp-playground/client/index.js";
-      let totalPercentage = 0;
+        login,
+      } from "@wp-playground/client";
 
-      function progress(percentage, text) {
-        totalPercentage += percentage;
-        if (totalPercentage >= 100) {
-          document.getElementById("progress").style.display = "none";
-          return;
-        }
-        document.getElementById("progressbar").style.width =
-          totalPercentage + "%";
-        document.getElementById("progresstext").textContent = text;
+      main();
+
+      async function main() {
+        const playground = await startPlaygroundWeb({
+          iframe: document.getElementById("wp"),
+          remoteUrl: "https://playground.wordpress.net/remote.html",
+          blueprint: {
+            landingPage: "/wp-admin/post.php?post=1&action=edit",
+            preferredVersions: {
+              php: "8.0",
+              wp: "latest",
+            },
+            steps: [
+              { step: "login", username: "admin", password: "password" },
+              {
+                step: "installPlugin",
+                pluginZipFile: {
+                  resource: "url",
+                  url: "inseri-core.zip",
+                },
+              },
+            ],
+          },
+        });
       }
-      progress(10, "Preparing WordPress...");
-
-      const client = await connectPlayground(document.getElementById("wp"), {
-        loadRemote: "https://playground.wordpress.net/remote.html",
-      });
-      progress(10, "Logging in as admin ...");
-
-      await client.isReady();
-      await login(client, "admin", "password");
-
-      progress(5, "Fetching inseri-core");
-
-      // Assuming inseri-core.zip is hosted with this HTML file:
-      const response = await fetch("./inseri-core.zip");
-      const inseriFile = new File([await response.blob()], "inseri-core.zip");
-
-      progress(15, "Installing inseri-core");
-
-      await installPlugin(client, inseriFile);
-
-      progress(15, "Edit Hello World post");
-
-      // Redirect to the right landing page
-      await client.goTo("/wp-admin/post.php?post=1&action=edit");
-      progress(100, "Finished");
     </script>
   </body>
 </html>
