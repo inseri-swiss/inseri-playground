@@ -11,10 +11,10 @@
         >WordPress Playground</a
       >
       to provide a playground where the users can test
-      <a href="https://inseri.swiss/" target="_blank"
-        >inseri core for WordPress</a
-      >
-      .
+      <a href="https://inseri.swiss/" target="_blank">inseri core</a>
+      . <br />
+      This is an experimental in-browser WordPress and it has several
+      limitations (e.g. browser support).
     </p>
     <p>
       <strong
@@ -51,18 +51,36 @@
           iframe: document.getElementById("wp"),
           remoteUrl: "https://playground.wordpress.net/remote.html",
           blueprint: {
-            landingPage: "/wp-admin/post.php?post=1&action=edit",
             preferredVersions: {
-              php: "8.0",
-              wp: "latest",
+              php: "8.1",
+              wp: "6.2",
             },
             steps: [
               { step: "login", username: "admin", password: "password" },
+              {
+                step: "runPHP",
+                code: "<?php include 'wordpress/wp-load.php'; wp_delete_post(1,true); ?>",
+              },
+
               {
                 step: "installPlugin",
                 pluginZipFile: {
                   resource: "url",
                   url: "inseri-core.zip",
+                },
+              },
+              {
+                step: "installTheme",
+                themeZipFile: {
+                  resource: "wordpress.org/themes",
+                  slug: "twentytwentythree",
+                },
+              },
+              {
+                step: "importFile",
+                file: {
+                  resource: "url",
+                  url: "inseriswiss.WordPress.xml",
                 },
               },
             ],
