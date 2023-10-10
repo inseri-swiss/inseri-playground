@@ -1,0 +1,25 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": { "php": "8.2", "wp": "6.3" },
+  "steps": [
+    { "step": "login", "username": "admin", "password": "password" },
+    {
+      "step": "runPHP",
+      "code": "<?php include 'wordpress/wp-load.php'; wp_delete_post(1,true); ?>"
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "wordpress.org/plugins",
+        "slug": "sqlite-database-integration"
+      }
+    },
+    {
+      "step": "ReplaceSiteStep",
+      "fullSiteZip": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/inseri-swiss/inseri-playground/feat/replace_site_step/inseri-playground.zip"
+      }
+    }
+  ]
+}
