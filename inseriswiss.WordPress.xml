@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3" created="2023-08-30 13:08" -->
+	<!-- generator="WordPress/6.3" created="2023-10-10 14:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:0.9800004943804157</link>
+	<title>inseri.swiss</title>
+	<link>https://playground.wordpress.net/scope:0.7618089291752530</link>
 	<description></description>
-	<pubDate>Wed, 30 Aug 2023 13:08:58 +0000</pubDate>
+	<pubDate>Tue, 10 Oct 2023 14:01:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:0.9800004943804157</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:0.9800004943804157</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:0.7618089291752530</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:0.7618089291752530</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[5050152]]></wp:author_login><wp:author_email><![CDATA[andrei.plamada@uzh.ch]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Andrei]]></wp:author_first_name><wp:author_last_name><![CDATA[Plamada]]></wp:author_last_name></wp:author>
@@ -292,81 +292,24 @@
 
 		<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=6</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:24 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=7</link>
+		<pubDate>Tue, 10 Oct 2023 13:56:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=6</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_modified_gmt>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2023-10-10 13:56:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:56:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:56:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:56:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="secondary-menu"><![CDATA[Secondary menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.facebook.com/wordpress]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Twitter]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=7</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=7</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[twitter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -401,33 +344,33 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://twitter.com/wordpress]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://www.facebook.com/wordpress]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=8</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:24 +0000</pubDate>
+		<title><![CDATA[Twitter]]></title>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=8</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=8</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:post_name><![CDATA[twitter]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary menu]]></category>
+										<category domain="nav_menu" nicename="secondary-menu"><![CDATA[Secondary menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -458,33 +401,33 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://localhost:8888/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://twitter.com/wordpress]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Instagram]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=9</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:24 +0000</pubDate>
+		<title><![CDATA[Home]]></title>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=9</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=9</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[instagram]]></wp:post_name>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="secondary-menu"><![CDATA[Secondary menu]]></category>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -515,29 +458,29 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.instagram.com/explore/tags/wordcamp/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[http://localhost:8888/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Email]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=10</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:24 +0000</pubDate>
+		<title><![CDATA[Instagram]]></title>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=10</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=10</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:24]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[email]]></wp:post_name>
+		<wp:post_name><![CDATA[instagram]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -572,12 +515,69 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.instagram.com/explore/tags/wordcamp/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Email]]></title>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=11</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=11</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[email]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="secondary-menu"><![CDATA[Secondary menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[mailto:wordpress@example.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=11</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=12</link>
 		<pubDate>Wed, 12 Apr 2023 06:00:52 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=3</guid>
@@ -678,7 +678,7 @@
 <p>Visitor comments may be checked through an automated spam detection service.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
+		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 08:00:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 06:00:52]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2023-04-12 08:00:52]]></wp:post_modified>
@@ -707,7 +707,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Get in Touch]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=50</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=50</link>
 		<pubDate>Wed, 23 Nov 2022 16:27:39 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?page_id=13</guid>
@@ -821,7 +821,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Showcase]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=483</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=483</link>
 		<pubDate>Fri, 16 Dec 2022 14:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://zi.whptest.uzh.ch/whp/science-it/inseri.swiss-demo/?page_id=92</guid>
@@ -862,13 +862,13 @@
 <!-- /wp:post-template --></div>
 <!-- /wp:query -->
 
+<!-- wp:paragraph -->
+<p>We make this possible via the inseri core custom blocks.</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":5,"style":{"typography":{"textTransform":"capitalize"}}} -->
 <h5 class="wp-block-heading" style="text-transform:capitalize">inseri core blocks</h5>
 <!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>We make this possible via the inseri core custom blocks:</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:query {"queryId":10,"query":{"perPage":"20","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":{"category":[5]}},"layout":{"type":"default"}} -->
 <div class="wp-block-query"><!-- wp:post-template {"layout":{"type":"default","columnCount":3}} -->
@@ -923,18 +923,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=484</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=484</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=484</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=484</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>484</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook-2]]></wp:post_name>
@@ -980,18 +980,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=485</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=485</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=485</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=485</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>485</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter-2]]></wp:post_name>
@@ -1037,18 +1037,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=486</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=486</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=486</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=486</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>486</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -1094,18 +1094,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=487</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=487</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=487</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=487</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>487</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[487]]></wp:post_name>
@@ -1151,18 +1151,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=488</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=488</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=488</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=488</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>488</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram-2]]></wp:post_name>
@@ -1208,18 +1208,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Email]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=489</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=489</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=489</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=489</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>489</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:57:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email-2]]></wp:post_name>
@@ -1265,7 +1265,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Try out]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=700</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=700</link>
 		<pubDate>Sun, 16 Apr 2023 20:09:19 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=700</guid>
@@ -1351,7 +1351,7 @@
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=703</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=703</link>
 		<pubDate>Sun, 16 Apr 2023 20:09:57 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=703</guid>
@@ -1447,6 +1447,32 @@
 <!-- /wp:gallery -->
 
 <!-- wp:heading -->
+<h2 class="wp-block-heading">Use cases</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>inseri is targeting four use cases:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Creation of own website for research output</strong> to complement traditional research output (PDF publication) with a Web format</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Interactive online tool</strong> via visualisation components that allow the reuse also with own data</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Data reuse and integration with data sources</strong> such that one can reuse open published data with the previously published online tools</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Data analysis and simulation</strong> without the need to set up the computational environment for runnable and reusable components without going into the details of the programming language used for the analysis</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
 <h2 class="wp-block-heading" id="roadmap">Roadmap</h2>
 <!-- /wp:heading -->
 
@@ -1456,7 +1482,7 @@
 
 <!-- wp:list {"ordered":true} -->
 <ol><!-- wp:list-item -->
-<li>Interactive and executable blocks (e.g., IIIF Viewer, Table Viewer)  </li>
+<li>Interactive and executable blocks driven by research use cases (e.g., IIIF Viewer, Table Viewer)  </li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -1502,10 +1528,14 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Documentation]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=706</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=706</link>
 		<pubDate>Sun, 16 Apr 2023 20:10:15 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=706</guid>
@@ -1539,7 +1569,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Impressum]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=771</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=771</link>
 		<pubDate>Tue, 18 Apr 2023 07:28:20 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=771</guid>
@@ -1557,7 +1587,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>University of Zurich<br />Science IT - S3IT<br />Winterthurerstrasse 190<br />8057 Zurich<br />Switzerland<br /><br /><a rel="noreferrer noopener" href="https://s3it.uzh.ch/" target="_blank">s3it.uzh.ch</a><br />inseri-contact@s3it.lists.uzh.ch</p>
+<p>University of Zurich<br />Science IT - S3IT<br />Winterthurerstrasse 190<br />8057 Zurich<br />Switzerland<br /><br /><a href="https://www.s3it.uzh.ch/" target="_blank" rel="noreferrer noopener">s3it.uzh.ch</a><br />inseri-contact@s3it.lists.uzh.ch</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>771</wp:post_id>
@@ -1577,14 +1607,30 @@
 														</item>
 					<item>
 		<title><![CDATA[Playground]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=1102</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=1102</link>
 		<pubDate>Fri, 25 Aug 2023 07:09:29 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=1102</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>It relies on <a rel="noreferrer noopener" href="https://developer.wordpress.org/playground/" target="_blank">WordPress Playground</a> to provide a playground where the users can test <a rel="noreferrer noopener" href="https://wordpress.org/plugins/inseri-core/" target="_blank">inseri core</a> plugin and explore all our <a rel="noreferrer noopener" href="https://inseri.swiss/showcase/" target="_blank">showcases</a>.</p>
+<p>It relies on <a rel="noreferrer noopener" href="https://developer.wordpress.org/playground/" target="_blank">WordPress Playground</a> to provide a playground where you can try out our <a rel="noreferrer noopener" href="https://wordpress.org/plugins/inseri-core/" target="_blank">inseri core</a> plugin and explore (inspect and even edit) all our <a rel="noreferrer noopener" href="https://inseri.swiss/showcase/" target="_blank">showcases</a>. <br /><br />Where to start? Try our <a rel="noreferrer noopener" href="https://docs.inseri.swiss/tutorials/hello-world/" target="_blank">Hello world tutorial</a>.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:details {"summary":"More about interactive and executable online content using inseri"} -->
+<details class="wp-block-details"><summary>More about interactive and executable online content using inseri</summary><!-- wp:paragraph -->
+<p>There are two perspectives:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>as a <strong>visitor</strong>: try our <a href="https://inseri.swiss/showcase/" data-type="page" data-id="483">Showcase</a> section. You will become familiar with the experience that you can also provide to your page visitors;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>as an <strong>editor</strong>: install <a href="https://wordpress.org/plugins/inseri-core/">inseri-core</a> plugin to your website, or try out our plugin in your <a href="https://inseri.swiss/playground">inseri Playground</a> (don't hesitate to consult our <a href="https://inseri.swiss/documentation/">Documentation</a>). You will become familiar with the experience of building interactive and executable online content.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></details>
+<!-- /wp:details -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"width":75} -->
@@ -1621,21 +1667,21 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=1130</link>
-		<pubDate>Wed, 30 Aug 2023 13:04:27 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=1153</link>
+		<pubDate>Tue, 10 Oct 2023 13:57:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=1130</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=1153</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1130</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:04:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:04:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:04:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:04:27]]></wp:post_modified_gmt>
+		<wp:post_id>1153</wp:post_id>
+		<wp:post_date><![CDATA[2023-10-10 13:57:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:57:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:57:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:57:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1130]]></wp:post_name>
+		<wp:post_name><![CDATA[1153]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -1678,8 +1724,8 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=2</link>
-		<pubDate>Wed, 30 Aug 2023 08:11:14 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?page_id=2</link>
+		<pubDate>Tue, 10 Oct 2023 08:11:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?page_id=2</guid>
 		<description></description>
@@ -1704,10 +1750,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 08:11:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 08:11:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 08:11:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 08:11:14]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 08:11:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 08:11:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 08:11:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 08:11:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -1723,122 +1769,33 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=3</link>
-		<pubDate>Wed, 30 Aug 2023 08:11:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:8000/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://127.0.0.1:8000.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 08:11:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 08:11:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:05:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:05:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1693400743]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?page_id=45</link>
-		<pubDate>Wed, 23 Nov 2022 09:05:24 +0000</pubDate>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=126</link>
+		<pubDate>Wed, 14 Dec 2022 13:47:47 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/?page_id=2</guid>
+		<guid isPermaLink="false">http://localhost:8888/?p=126</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
-<!-- /wp:paragraph --></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://localhost:8888/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":[],"settings":[],"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2022-11-23 09:05:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-11-23 09:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:05:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:05:43]]></wp:post_modified_gmt>
+		<wp:post_id>126</wp:post_id>
+		<wp:post_date><![CDATA[2022-12-14 13:47:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-12-14 13:47:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-14 13:47:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-14 13:47:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentytwo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1693400743]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+										<category domain="wp_theme" nicename="twentytwentytwo"><![CDATA[twentytwentytwo]]></category>
+						</item>
 					<item>
 		<title><![CDATA[Dropdown Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=266</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=266</link>
 		<pubDate>Wed, 14 Dec 2022 10:06:39 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=266</guid>
@@ -1861,28 +1818,32 @@
 <p>Below we provide two examples.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"Psery8bPn8QR9NIDtbU2F","output":{"key":"Psery8bPn8QR9NIDtbU2F/content","default":"","contentType":"application/javascript","description":"content"},"blockName":"textEditor-examples","height":234,"content":"# option 1\n[\u0022item 1\u0022, \u0022item 2\u0022, \u0022item 3\u0022]\n# option 2\n[\n    { \u0022label\u0022: \u0022item 1\u0022, \u0022value\u0022: { \u0022bar\u0022: 11, \u0022foo\u0022: 3 } },\n    { \u0022label\u0022: \u0022item 2\u0022, \u0022value\u0022: 42 },\n    { \u0022label\u0022: \u0022item 3\u0022, \u0022value\u0022: \u0022Foo bar\u0022 }\n]"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;Psery8bPn8QR9NIDtbU2F&quot;,&quot;blockName&quot;:&quot;textEditor-examples&quot;,&quot;content&quot;:&quot;# option 1\n[\&quot;item 1\&quot;, \&quot;item 2\&quot;, \&quot;item 3\&quot;]\n# option 2\n[\n    { \&quot;label\&quot;: \&quot;item 1\&quot;, \&quot;value\&quot;: { \&quot;bar\&quot;: 11, \&quot;foo\&quot;: 3 } },\n    { \&quot;label\&quot;: \&quot;item 2\&quot;, \&quot;value\&quot;: 42 },\n    { \&quot;label\&quot;: \&quot;item 3\&quot;, \&quot;value\&quot;: \&quot;Foo bar\&quot; }\n]&quot;,&quot;editable&quot;:false,&quot;height&quot;:234,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/javascript&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;Psery8bPn8QR9NIDtbU2F/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"Psery8bPn8QR9NIDtbU2F","blockName":"textEditor-example-1","height":60,"content":"[\u0022item 1\u0022, \u0022item 2\u0022, \u0022item 3\u0022]","contentType":"application/json","label":"JSON input as 1. a simple array with items"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;Psery8bPn8QR9NIDtbU2F&quot;,&quot;blockName&quot;:&quot;textEditor-example-1&quot;,&quot;content&quot;:&quot;[\&quot;item 1\&quot;, \&quot;item 2\&quot;, \&quot;item 3\&quot;]&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:false,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;JSON input as 1. a simple array with items&quot;}">is loading ...</div>
+<!-- /wp:inseri-core/text-editor -->
+
+<!-- wp:inseri-core/text-editor {"blockId":"Psery8bPn8QR9NIDtbU2Fc12","blockName":"textEditor-example-2","height":133,"content":"[\n    { \u0022label\u0022: \u0022item 1\u0022, \u0022value\u0022: { \u0022bar\u0022: 11, \u0022foo\u0022: 3 } },\n    { \u0022label\u0022: \u0022item 2\u0022, \u0022value\u0022: 42 },\n    { \u0022label\u0022: \u0022item 3\u0022, \u0022value\u0022: \u0022Foo bar\u0022 }\n]","contentType":"application/json","label":"JSON input as 2. an array of objects that require the keys label and value"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;Psery8bPn8QR9NIDtbU2Fc12&quot;,&quot;blockName&quot;:&quot;textEditor-example-2&quot;,&quot;content&quot;:&quot;[\n    { \&quot;label\&quot;: \&quot;item 1\&quot;, \&quot;value\&quot;: { \&quot;bar\&quot;: 11, \&quot;foo\&quot;: 3 } },\n    { \&quot;label\&quot;: \&quot;item 2\&quot;, \&quot;value\&quot;: 42 },\n    { \&quot;label\&quot;: \&quot;item 3\&quot;, \&quot;value\&quot;: \&quot;Foo bar\&quot; }\n]&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:false,&quot;height&quot;:133,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;JSON input as 2. an array of objects that require the keys label and value&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
 <!-- wp:paragraph -->
 <p>Edit the text block below (we can make the text editable so the user can change it) and check the dropdown updates live:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"avmahR8D2OZwHz3oeiL3w","output":{"key":"avmahR8D2OZwHz3oeiL3w/content","default":"","contentType":"application/json"},"blockName":"textEditor-1","height":140,"editable":true,"content":"[\u0022a\u0022,\u0022b\u0022,\u0022c\u0022]","label":"Feel free to edit the JSON text below"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;avmahR8D2OZwHz3oeiL3w&quot;,&quot;blockName&quot;:&quot;textEditor-1&quot;,&quot;content&quot;:&quot;[\&quot;a\&quot;,\&quot;b\&quot;,\&quot;c\&quot;]&quot;,&quot;editable&quot;:true,&quot;height&quot;:140,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;key&quot;:&quot;avmahR8D2OZwHz3oeiL3w/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"avmahR8D2OZwHz3oeiL3w","blockName":"textEditor-1","height":140,"editable":true,"content":"[\u0022a\u0022,\u0022b\u0022,\u0022c\u0022]","contentType":"application/json","label":"Feel free to edit the JSON text below"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;avmahR8D2OZwHz3oeiL3w&quot;,&quot;blockName&quot;:&quot;textEditor-1&quot;,&quot;content&quot;:&quot;[\&quot;a\&quot;,\&quot;b\&quot;,\&quot;c\&quot;]&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:140,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
 <!-- wp:paragraph -->
 <p>Pay attention to the value that you select from the Dropdown and next at its output value which can be used as an input of another block. If the items of the JSON array are Objects, the <code><strong>label</strong></code> can be selected, and the <code><strong>value</strong></code> is its corresponding output.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/dropdown {"blockId":"ak3IbPTyEXvFtT7sKYPhf","input":{"contentType":"application/json","description":"textEditor-1: content","default":"","key":"avmahR8D2OZwHz3oeiL3w/content"},"output":{"key":"ak3IbPTyEXvFtT7sKYPhf/selected","contentType":"application/json","description":"chosen value"},"blockName":"dropdown-1"} -->
-<div class="wp-block-inseri-core-dropdown" data-attributes="{&quot;blockId&quot;:&quot;ak3IbPTyEXvFtT7sKYPhf&quot;,&quot;blockName&quot;:&quot;dropdown-1&quot;,&quot;clearable&quot;:true,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-1: content&quot;,&quot;key&quot;:&quot;avmahR8D2OZwHz3oeiL3w/content&quot;},&quot;label&quot;:&quot;Choose an item&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;chosen value&quot;,&quot;key&quot;:&quot;ak3IbPTyEXvFtT7sKYPhf/selected&quot;},&quot;searchable&quot;:true}">is loading ...</div>
+<!-- wp:inseri-core/dropdown {"blockId":"ak3IbPTyEXvFtT7sKYPhf","inputKey":"avmahR8D2OZwHz3oeiL3w/content","blockName":"dropdown-1"} -->
+<div class="wp-block-inseri-core-dropdown" data-attributes="{&quot;blockId&quot;:&quot;ak3IbPTyEXvFtT7sKYPhf&quot;,&quot;blockName&quot;:&quot;dropdown-1&quot;,&quot;clearable&quot;:true,&quot;inputKey&quot;:&quot;avmahR8D2OZwHz3oeiL3w/content&quot;,&quot;label&quot;:&quot;Choose an item&quot;,&quot;searchable&quot;:true}">is loading ...</div>
 <!-- /wp:inseri-core/dropdown -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"sbulfTYLyx8HZaCx7CAji","input":{"contentType":"application/json","description":"dropdown-1: chosen value","key":"ak3IbPTyEXvFtT7sKYPhf/selected"},"blockName":"textViewer-jO4"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;sbulfTYLyx8HZaCx7CAji&quot;,&quot;blockName&quot;:&quot;textViewer-jO4&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;dropdown-1: chosen value&quot;,&quot;key&quot;:&quot;ak3IbPTyEXvFtT7sKYPhf/selected&quot;},&quot;label&quot;:&quot;&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"sbulfTYLyx8HZaCx7CAji","inputKey":"ak3IbPTyEXvFtT7sKYPhf/selected","blockName":"textViewer-jO4"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;sbulfTYLyx8HZaCx7CAji&quot;,&quot;blockName&quot;:&quot;textViewer-jO4&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;inputKey&quot;:&quot;ak3IbPTyEXvFtT7sKYPhf/selected&quot;,&quot;label&quot;:&quot;&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>266</wp:post_id>
@@ -1935,10 +1896,14 @@
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[text-editor-and-dropdown]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Web API Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=272</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=272</link>
 		<pubDate>Thu, 05 Jan 2023 13:17:21 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=272</guid>
@@ -1951,16 +1916,16 @@
 <p>Once we call the Web API, we can pick its response and display it using the Text Viewer. Feel free to change the URL given below (feel free to replace <kbd>package.json</kbd> with <kbd>readme.txt</kbd>) and click the Call Web API button.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"Y354ioIkaGvAHR1CrIxmB","output":{"key":"Y354ioIkaGvAHR1CrIxmB/content","default":"","contentType":"text/plain","description":"content"},"blockName":"textEditor-link","height":73,"editable":true,"content":"https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/package.json","label":"Feel free to change the URL below and click the Call Web API button"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;Y354ioIkaGvAHR1CrIxmB&quot;,&quot;blockName&quot;:&quot;textEditor-link&quot;,&quot;content&quot;:&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/package.json&quot;,&quot;editable&quot;:true,&quot;height&quot;:73,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to change the URL below and click the Call Web API button&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;Y354ioIkaGvAHR1CrIxmB/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"Y354ioIkaGvAHR1CrIxmB","blockName":"textEditor-link","height":73,"editable":true,"content":"https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/package.json","contentType":"text/plain","label":"Feel free to change the URL below and click the Call Web API button"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;Y354ioIkaGvAHR1CrIxmB&quot;,&quot;blockName&quot;:&quot;textEditor-link&quot;,&quot;content&quot;:&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/package.json&quot;,&quot;contentType&quot;:&quot;text/plain&quot;,&quot;editable&quot;:true,&quot;height&quot;:73,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to change the URL below and click the Call Web API button&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
-<!-- wp:inseri-core/web-api {"blockId":"uUmzvisvxiYpyvsQLGMxw","output":{"key":"uUmzvisvxiYpyvsQLGMxw/data","contentType":"text/plain","description":"data"},"inputMethodUrl":{"key":"Y354ioIkaGvAHR1CrIxmB/content","contentType":"text/plain","description":"textEditor-link: content","default":""},"blockName":"webApi","autoTrigger":false,"isContentTypeLock":true,"requestParams":{"method":"GET","url":"https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/tsconfig.json","queryParams":[{"isChecked":true,"key":"","value":""}],"headerParams":[{"isChecked":true,"key":"","value":""}],"bodyType":"none","textBody":"","paramsBody":[{"isChecked":true,"key":"","value":""}],"isContentTypeLock":true}} -->
-<div class="wp-block-inseri-core-web-api" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;uUmzvisvxiYpyvsQLGMxw&quot;,&quot;blockName&quot;:&quot;webApi&quot;,&quot;inputBody&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputHeadersParams&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputMethodUrl&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-link: content&quot;,&quot;key&quot;:&quot;Y354ioIkaGvAHR1CrIxmB/content&quot;},&quot;inputQueryParams&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;isContentTypeLock&quot;:true,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Call Web API&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;description&quot;:&quot;data&quot;,&quot;key&quot;:&quot;uUmzvisvxiYpyvsQLGMxw/data&quot;},&quot;pid&quot;:{&quot;identifier&quot;:&quot;&quot;,&quot;type&quot;:&quot;&quot;},&quot;requestParams&quot;:{&quot;bodyType&quot;:&quot;none&quot;,&quot;headerParams&quot;:[{&quot;isChecked&quot;:true,&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}],&quot;isContentTypeLock&quot;:true,&quot;method&quot;:&quot;GET&quot;,&quot;paramsBody&quot;:[{&quot;isChecked&quot;:true,&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}],&quot;queryParams&quot;:[{&quot;isChecked&quot;:true,&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}],&quot;textBody&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/tsconfig.json&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/web-api {"blockId":"uUmzvisvxiYpyvsQLGMxw","outputContenType":"text/plain","inputMethodUrl":"Y354ioIkaGvAHR1CrIxmB/content","blockName":"webApi","autoTrigger":false,"requestParams":{"method":"GET","url":"https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/tsconfig.json","queryParams":[{"isChecked":true,"key":"","value":""}],"headerParams":[{"isChecked":true,"key":"","value":""}],"bodyType":"none","textBody":"","paramsBody":[{"isChecked":true,"key":"","value":""}],"isContentTypeLock":true}} -->
+<div class="wp-block-inseri-core-web-api" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;uUmzvisvxiYpyvsQLGMxw&quot;,&quot;blockName&quot;:&quot;webApi&quot;,&quot;inputBody&quot;:&quot;&quot;,&quot;inputHeadersParams&quot;:&quot;&quot;,&quot;inputMethodUrl&quot;:&quot;Y354ioIkaGvAHR1CrIxmB/content&quot;,&quot;inputQueryParams&quot;:&quot;&quot;,&quot;isContentTypeLock&quot;:false,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Call Web API&quot;,&quot;outputContenType&quot;:&quot;text/plain&quot;,&quot;pid&quot;:{&quot;identifier&quot;:&quot;&quot;,&quot;type&quot;:&quot;&quot;},&quot;requestParams&quot;:{&quot;bodyType&quot;:&quot;none&quot;,&quot;headerParams&quot;:[{&quot;isChecked&quot;:true,&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}],&quot;isContentTypeLock&quot;:true,&quot;method&quot;:&quot;GET&quot;,&quot;paramsBody&quot;:[{&quot;isChecked&quot;:true,&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}],&quot;queryParams&quot;:[{&quot;isChecked&quot;:true,&quot;key&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;}],&quot;textBody&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/tsconfig.json&quot;}}">is loading ...</div>
 <!-- /wp:inseri-core/web-api -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"k0gppofDTzxGUR1trb85R","input":{"contentType":"application/json","description":"webApi: data","key":"uUmzvisvxiYpyvsQLGMxw/data"},"blockName":"textViewer","label":"Web API response"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;k0gppofDTzxGUR1trb85R&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;webApi: data&quot;,&quot;key&quot;:&quot;uUmzvisvxiYpyvsQLGMxw/data&quot;},&quot;label&quot;:&quot;Web API response&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"k0gppofDTzxGUR1trb85R","inputKey":"uUmzvisvxiYpyvsQLGMxw/data","blockName":"textViewer","height":380,"label":"Web API response"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;k0gppofDTzxGUR1trb85R&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:380,&quot;inputKey&quot;:&quot;uUmzvisvxiYpyvsQLGMxw/data&quot;,&quot;label&quot;:&quot;Web API response&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>272</wp:post_id>
@@ -2016,7 +1981,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Media Collection and Image Box Blocks]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=275</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=275</link>
 		<pubDate>Tue, 10 Jan 2023 13:22:36 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=275</guid>
@@ -2025,28 +1990,28 @@
 <p>The <strong>Media Collection</strong> block allows us to use content from the Media Library <br />If more files are selected, a dropdown is defined where the use can select which file should be used.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/media-collection {"blockId":"dsiahw5mX8EzXusbON7qg","blockName":"mediaCollection","output":{"key":"dsiahw5mX8EzXusbON7qg/file","contentType":"","default":"","description":"file"},"fileIds":[7,6],"selectedFileId":"6"} -->
-<div class="wp-block-inseri-core-media-collection" data-attributes="{&quot;blockId&quot;:&quot;dsiahw5mX8EzXusbON7qg&quot;,&quot;blockName&quot;:&quot;mediaCollection&quot;,&quot;fileIds&quot;:[7,6],&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Choose a file&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;file&quot;,&quot;key&quot;:&quot;dsiahw5mX8EzXusbON7qg/file&quot;},&quot;selectedFileId&quot;:&quot;6&quot;}">is loading ...</div>
+<!-- wp:inseri-core/media-collection {"blockId":"dsiahw5mX8EzXusbON7qg","blockName":"mediaCollection","fileIds":[7,6]} -->
+<div class="wp-block-inseri-core-media-collection" data-attributes="{&quot;blockId&quot;:&quot;dsiahw5mX8EzXusbON7qg&quot;,&quot;blockName&quot;:&quot;mediaCollection&quot;,&quot;fileIds&quot;:[7,6],&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Choose a file&quot;,&quot;selectedFileId&quot;:null}">is loading ...</div>
 <!-- /wp:inseri-core/media-collection -->
 
 <!-- wp:paragraph -->
 <p>The <strong>Image</strong> <strong>Box</strong> block allows us to display an image. Next we use it in order to display the previously selected file.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/image {"blockId":"PjzueQ0636WldrnwwmAJH","blockName":"image-qiB","input":{"key":"dsiahw5mX8EzXusbON7qg/file","contentType":"image/png","description":"mediaCollection: file","default":""},"height":204} -->
-<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;PjzueQ0636WldrnwwmAJH&quot;,&quot;blockName&quot;:&quot;image-qiB&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:204,&quot;input&quot;:{&quot;contentType&quot;:&quot;image/png&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;mediaCollection: file&quot;,&quot;key&quot;:&quot;dsiahw5mX8EzXusbON7qg/file&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/image {"blockId":"PjzueQ0636WldrnwwmAJH","blockName":"image-qiB","inputKey":"dsiahw5mX8EzXusbON7qg/file","height":204} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;PjzueQ0636WldrnwwmAJH&quot;,&quot;blockName&quot;:&quot;image-qiB&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:204,&quot;inputKey&quot;:&quot;dsiahw5mX8EzXusbON7qg/file&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/image -->
 
 <!-- wp:paragraph -->
 <p>But the Image Box block can even take as input a link defined in a Text Editor block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"gZ6xUeZFRha7jc49oyOyZ","output":{"key":"gZ6xUeZFRha7jc49oyOyZ/content","default":"","contentType":"text/plain","description":"content"},"blockName":"textEditor-link","height":60,"editable":true,"content":"https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif","label":"Feel free to edit the image link"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;gZ6xUeZFRha7jc49oyOyZ&quot;,&quot;blockName&quot;:&quot;textEditor-link&quot;,&quot;content&quot;:&quot;https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the image link&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;gZ6xUeZFRha7jc49oyOyZ/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"gZ6xUeZFRha7jc49oyOyZ","blockName":"textEditor-link","height":60,"editable":true,"content":"https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif","contentType":"text/plain","label":"Feel free to edit the image link"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;gZ6xUeZFRha7jc49oyOyZ&quot;,&quot;blockName&quot;:&quot;textEditor-link&quot;,&quot;content&quot;:&quot;https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif&quot;,&quot;contentType&quot;:&quot;text/plain&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the image link&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
-<!-- wp:inseri-core/image {"blockId":"c3EfxoDJLxDMC7nOUGpSc","blockName":"image-kNX","input":{"key":"gZ6xUeZFRha7jc49oyOyZ/content","contentType":"text/plain","description":"textEditor-link: content","default":""},"caption":"The image corresponds to the link above","height":66} -->
-<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;c3EfxoDJLxDMC7nOUGpSc&quot;,&quot;blockName&quot;:&quot;image-kNX&quot;,&quot;caption&quot;:&quot;The image corresponds to the link above&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:66,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-link: content&quot;,&quot;key&quot;:&quot;gZ6xUeZFRha7jc49oyOyZ/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/image {"blockId":"c3EfxoDJLxDMC7nOUGpSc","blockName":"image-kNX","inputKey":"gZ6xUeZFRha7jc49oyOyZ/content","caption":"The image corresponds to the link above","height":66} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;c3EfxoDJLxDMC7nOUGpSc&quot;,&quot;blockName&quot;:&quot;image-kNX&quot;,&quot;caption&quot;:&quot;The image corresponds to the link above&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:66,&quot;inputKey&quot;:&quot;gZ6xUeZFRha7jc49oyOyZ/content&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>275</wp:post_id>
@@ -2118,7 +2083,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python Code Block using Pyodide]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=277</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=277</link>
 		<pubDate>Mon, 27 Feb 2023 08:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=277</guid>
@@ -2133,14 +2098,14 @@
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:inseri-core/text-editor {"blockId":"H5J2W7v6GU4aSy1KRtTXf","output":{"key":"H5J2W7v6GU4aSy1KRtTXf/content","default":"","contentType":"application/json","description":"content"},"blockName":"textEditor-py-1","height":60,"editable":true,"content":"\u0022A\u0022","label":"Variable a:"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;H5J2W7v6GU4aSy1KRtTXf&quot;,&quot;blockName&quot;:&quot;textEditor-py-1&quot;,&quot;content&quot;:&quot;\&quot;A\&quot;&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Variable a:&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;H5J2W7v6GU4aSy1KRtTXf/content&quot;}}">is loading ...</div>
+<div class="wp-block-column"><!-- wp:inseri-core/text-editor {"blockId":"H5J2W7v6GU4aSy1KRtTXf","blockName":"textEditor-py-a","height":60,"editable":true,"content":"\u0022A\u0022","contentType":"application/json","label":"Variable a:"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;H5J2W7v6GU4aSy1KRtTXf&quot;,&quot;blockName&quot;:&quot;textEditor-py-a&quot;,&quot;content&quot;:&quot;\&quot;A\&quot;&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Variable a:&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:inseri-core/text-editor {"blockId":"N38McwVhSC8H97OGhLxdy","output":{"key":"N38McwVhSC8H97OGhLxdy/content","default":"","contentType":"application/json","description":"content"},"blockName":"textEditor-py-2","height":60,"editable":true,"content":"\u0022B\u0022","label":"Variable b:"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;N38McwVhSC8H97OGhLxdy&quot;,&quot;blockName&quot;:&quot;textEditor-py-2&quot;,&quot;content&quot;:&quot;\&quot;B\&quot;&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Variable b:&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;N38McwVhSC8H97OGhLxdy/content&quot;}}">is loading ...</div>
+<div class="wp-block-column"><!-- wp:inseri-core/text-editor {"blockId":"N38McwVhSC8H97OGhLxdy","blockName":"textEditor-py-b","height":60,"editable":true,"content":"\u0022B\u0022","contentType":"application/json","label":"Variable b:"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;N38McwVhSC8H97OGhLxdy&quot;,&quot;blockName&quot;:&quot;textEditor-py-b&quot;,&quot;content&quot;:&quot;\&quot;B\&quot;&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Variable b:&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -2149,16 +2114,16 @@
 <p>We are using the "+" operator between the content of the two blocks above.<br />The Python block can run on demand (press <strong>Run</strong>), automatically, and one can even hide it.<br />Moreover, we can make it editable, so the users can change it.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"mGKJ9atBAfG11wqVQTVPX","inputs":{"a":{"contentType":"text/plain","description":"textEditor-py-1: content","default":"","key":"H5J2W7v6GU4aSy1KRtTXf/content"},"b":{"contentType":"text/plain","description":"textEditor-py-2: content","default":"","key":"N38McwVhSC8H97OGhLxdy/content"}},"outputs":[{"key":"mGKJ9atBAfG11wqVQTVPX/res","contentType":"application/json","description":"res"}],"blockName":"py-concatenate","mode":"editor","height":68,"editable":true,"content":"res = a+b","label":"Python Code"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;mGKJ9atBAfG11wqVQTVPX&quot;,&quot;blockName&quot;:&quot;py-concatenate&quot;,&quot;content&quot;:&quot;res = a+b&quot;,&quot;editable&quot;:true,&quot;height&quot;:68,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{&quot;a&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-py-1: content&quot;,&quot;key&quot;:&quot;H5J2W7v6GU4aSy1KRtTXf/content&quot;},&quot;b&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-py-2: content&quot;,&quot;key&quot;:&quot;N38McwVhSC8H97OGhLxdy/content&quot;}},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Python Code&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;res&quot;,&quot;key&quot;:&quot;mGKJ9atBAfG11wqVQTVPX/res&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"JkKdSEQdugXTxPOPsm3gS","inputs":{"a":"H5J2W7v6GU4aSy1KRtTXf/content","b":"N38McwVhSC8H97OGhLxdy/content"},"outputs":[["res","application/json"]],"blockName":"python-res","mode":"editor","height":60,"editable":true,"content":"res = a+b","label":"Feel free to edit the Python code"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;JkKdSEQdugXTxPOPsm3gS&quot;,&quot;blockName&quot;:&quot;python-res&quot;,&quot;content&quot;:&quot;res = a+b&quot;,&quot;editable&quot;:true,&quot;height&quot;:60,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{&quot;a&quot;:&quot;H5J2W7v6GU4aSy1KRtTXf/content&quot;,&quot;b&quot;:&quot;N38McwVhSC8H97OGhLxdy/content&quot;},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the Python code&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;application/json&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
 <!-- wp:paragraph -->
 <p>And below we display the result in a Text Viewer block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"uiqCFnoPovk31MNBE12QQ","input":{"contentType":"application/json","description":"py-concatenate: res","key":"mGKJ9atBAfG11wqVQTVPX/res"},"blockName":"textViewer-EWj","height":60,"label":"The value of res:"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;uiqCFnoPovk31MNBE12QQ&quot;,&quot;blockName&quot;:&quot;textViewer-EWj&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;py-concatenate: res&quot;,&quot;key&quot;:&quot;mGKJ9atBAfG11wqVQTVPX/res&quot;},&quot;label&quot;:&quot;The value of res:&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"uiqCFnoPovk31MNBE12QQ","inputKey":"JkKdSEQdugXTxPOPsm3gS/res","blockName":"textViewer-py-res","height":60,"label":"The value of res:"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;uiqCFnoPovk31MNBE12QQ&quot;,&quot;blockName&quot;:&quot;textViewer-py-res&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;inputKey&quot;:&quot;JkKdSEQdugXTxPOPsm3gS/res&quot;,&quot;label&quot;:&quot;The value of res:&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->
 
 <!-- wp:paragraph -->
@@ -2215,10 +2180,14 @@
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[python-in-the-browser-pyodide]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hello World]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=295</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=295</link>
 		<pubDate>Tue, 28 Feb 2023 14:57:41 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=295</guid>
@@ -2229,20 +2198,20 @@
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":814,"width":220,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
-<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img src="https://inseri.swiss/wp-content/uploads/2023/04/presentation-612x1024.png" alt="" class="wp-image-814" width="220"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized is-style-default"><img src="https://inseri.swiss/wp-content/uploads/2023/04/presentation-612x1024.png" alt="" class="wp-image-814" style="width:220px" width="220"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"400px","justifyContent":"right"}} -->
-<div class="wp-block-group"><!-- wp:inseri-core/text-editor {"blockId":"CtfD2BjYHe8WNJPyPuPQV","output":{"key":"CtfD2BjYHe8WNJPyPuPQV/content","default":"","contentType":"application/json","description":"content"},"blockName":"textEditor","height":98,"content":"[{\u0022label\u0022: \u0022UZH Acronym\u0022,\n    \u0022value\u0022: \u0022https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif\u0022},\n  {\u0022label\u0022: \u0022UZH Logos\u0022,\n    \u0022value\u0022: \u0022https://www.cd.uzh.ch/dam/jcr:79ffe4ce-bbe9-498e-94a8-d7d5b66400b2/UZH_logo_pos_d_e.gif\u0022}]","label":"JSON text used in the Dropdown block (it can be hidden)"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;CtfD2BjYHe8WNJPyPuPQV&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;[{\&quot;label\&quot;: \&quot;UZH Acronym\&quot;,\n    \&quot;value\&quot;: \&quot;https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif\&quot;},\n  {\&quot;label\&quot;: \&quot;UZH Logos\&quot;,\n    \&quot;value\&quot;: \&quot;https://www.cd.uzh.ch/dam/jcr:79ffe4ce-bbe9-498e-94a8-d7d5b66400b2/UZH_logo_pos_d_e.gif\&quot;}]&quot;,&quot;editable&quot;:false,&quot;height&quot;:98,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;JSON text used in the Dropdown block (it can be hidden)&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;CtfD2BjYHe8WNJPyPuPQV/content&quot;}}">is loading ...</div>
+<div class="wp-block-group"><!-- wp:inseri-core/text-editor {"blockId":"CtfD2BjYHe8WNJPyPuPQV","blockName":"textEditor","height":98,"content":"[{\u0022label\u0022: \u0022UZH Acronym\u0022,\n    \u0022value\u0022: \u0022https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif\u0022},\n  {\u0022label\u0022: \u0022UZH Logos\u0022,\n    \u0022value\u0022: \u0022https://www.cd.uzh.ch/dam/jcr:79ffe4ce-bbe9-498e-94a8-d7d5b66400b2/UZH_logo_pos_d_e.gif\u0022}]","contentType":"application/json","label":"JSON text used in the Dropdown block (it can be hidden)"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;CtfD2BjYHe8WNJPyPuPQV&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;[{\&quot;label\&quot;: \&quot;UZH Acronym\&quot;,\n    \&quot;value\&quot;: \&quot;https://www.cd.uzh.ch/cd/dam/jcr:31f38b33-1619-4ba1-a21c-4dae47e9d0e5/UZH-Logo-Akronym.2020-01-15-11-51-14.gif\&quot;},\n  {\&quot;label\&quot;: \&quot;UZH Logos\&quot;,\n    \&quot;value\&quot;: \&quot;https://www.cd.uzh.ch/dam/jcr:79ffe4ce-bbe9-498e-94a8-d7d5b66400b2/UZH_logo_pos_d_e.gif\&quot;}]&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:false,&quot;height&quot;:98,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;JSON text used in the Dropdown block (it can be hidden)&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
-<!-- wp:inseri-core/dropdown {"blockId":"wmIefDHKdgFFuGw3QDyra","input":{"contentType":"application/json","description":"textEditor-2: content","default":"","key":"CtfD2BjYHe8WNJPyPuPQV/content"},"output":{"key":"wmIefDHKdgFFuGw3QDyra/selected","contentType":"application/json","description":"chosen value"},"blockName":"dropdown"} -->
-<div class="wp-block-inseri-core-dropdown" data-attributes="{&quot;blockId&quot;:&quot;wmIefDHKdgFFuGw3QDyra&quot;,&quot;blockName&quot;:&quot;dropdown&quot;,&quot;clearable&quot;:true,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-2: content&quot;,&quot;key&quot;:&quot;CtfD2BjYHe8WNJPyPuPQV/content&quot;},&quot;label&quot;:&quot;Choose an item&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;chosen value&quot;,&quot;key&quot;:&quot;wmIefDHKdgFFuGw3QDyra/selected&quot;},&quot;searchable&quot;:true}">is loading ...</div>
+<!-- wp:inseri-core/dropdown {"blockId":"wmIefDHKdgFFuGw3QDyra","inputKey":"CtfD2BjYHe8WNJPyPuPQV/content","blockName":"dropdown"} -->
+<div class="wp-block-inseri-core-dropdown" data-attributes="{&quot;blockId&quot;:&quot;wmIefDHKdgFFuGw3QDyra&quot;,&quot;blockName&quot;:&quot;dropdown&quot;,&quot;clearable&quot;:true,&quot;inputKey&quot;:&quot;CtfD2BjYHe8WNJPyPuPQV/content&quot;,&quot;label&quot;:&quot;Choose an item&quot;,&quot;searchable&quot;:true}">is loading ...</div>
 <!-- /wp:inseri-core/dropdown -->
 
-<!-- wp:inseri-core/image {"blockId":"NYC0hjneAJz4shT055gTW","blockName":"image","input":{"key":"wmIefDHKdgFFuGw3QDyra/selected","contentType":"application/json","description":"dropdown: chosen value","default":""},"height":69} -->
-<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;NYC0hjneAJz4shT055gTW&quot;,&quot;blockName&quot;:&quot;image&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:69,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;dropdown: chosen value&quot;,&quot;key&quot;:&quot;wmIefDHKdgFFuGw3QDyra/selected&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/image {"blockId":"NYC0hjneAJz4shT055gTW","blockName":"image","inputKey":"wmIefDHKdgFFuGw3QDyra/selected","height":69} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;NYC0hjneAJz4shT055gTW&quot;,&quot;blockName&quot;:&quot;image&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:69,&quot;inputKey&quot;:&quot;wmIefDHKdgFFuGw3QDyra/selected&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -2302,7 +2271,7 @@
 							</item>
 					<item>
 		<title><![CDATA[HTML Code Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=352</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=352</link>
 		<pubDate>Tue, 07 Mar 2023 14:50:41 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=352</guid>
@@ -2315,28 +2284,28 @@
 <p>To demonstrate this we start with a publicly editable Text Editor block where we allow you to edit the HTML code, and below you will see live the rendered content.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"3VlGm2k5Rh5KmDTvw3gmS","output":{"key":"3VlGm2k5Rh5KmDTvw3gmS/content","default":"","contentType":"text/html","description":"content"},"blockName":"textEditor","height":96,"editable":true,"content":"\u003cdiv\u003e\n  \u003ch4\u003eHello World\u003c/h4\u003e\n\u003c/div\u003e","label":"Feel free to edit the HTML code"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;3VlGm2k5Rh5KmDTvw3gmS&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;<div&gt;\n  <h4&gt;Hello World</h4&gt;\n</div&gt;&quot;,&quot;editable&quot;:true,&quot;height&quot;:96,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the HTML code&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;text/html&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;3VlGm2k5Rh5KmDTvw3gmS/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"3VlGm2k5Rh5KmDTvw3gmS","blockName":"textEditor","height":96,"editable":true,"content":"\u003cdiv\u003e\n  \u003ch4\u003eHello World\u003c/h4\u003e\n\u003c/div\u003e","contentType":"text/html","label":"Feel free to edit the HTML code"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;3VlGm2k5Rh5KmDTvw3gmS&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;<div&gt;\n  <h4&gt;Hello World</h4&gt;\n</div&gt;&quot;,&quot;contentType&quot;:&quot;text/html&quot;,&quot;editable&quot;:true,&quot;height&quot;:96,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the HTML code&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
-<!-- wp:inseri-core/html {"blockId":"VQVMkflhKsRpmQmf6I6DO","blockName":"html-7ve","input":{"contentType":"text/html","description":"textEditor: content","default":"","key":"3VlGm2k5Rh5KmDTvw3gmS/content"}} -->
-<div class="wp-block-inseri-core-html" data-attributes="{&quot;blockId&quot;:&quot;VQVMkflhKsRpmQmf6I6DO&quot;,&quot;blockName&quot;:&quot;html-7ve&quot;,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/html&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor: content&quot;,&quot;key&quot;:&quot;3VlGm2k5Rh5KmDTvw3gmS/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/html {"blockId":"VQVMkflhKsRpmQmf6I6DO","blockName":"html-7ve","inputKey":"3VlGm2k5Rh5KmDTvw3gmS/content"} -->
+<div class="wp-block-inseri-core-html" data-attributes="{&quot;blockId&quot;:&quot;VQVMkflhKsRpmQmf6I6DO&quot;,&quot;blockName&quot;:&quot;html-7ve&quot;,&quot;inputKey&quot;:&quot;3VlGm2k5Rh5KmDTvw3gmS/content&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/html -->
 
 <!-- wp:paragraph -->
 <p> But we can do more. We can use the Python Code block to generate some html and display it live. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"AA1wUmdWyfnFGMiybj4rn","outputs":[{"key":"AA1wUmdWyfnFGMiybj4rn/df_as_html","contentType":"text/html","description":"df_as_html"}],"blockName":"python-pandas","mode":"editor","editable":true,"content":"import pandas as pd\ndf = pd.DataFrame({\n    'a': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I'],\n    'b': [28, 55, 43, 91, 81, 53, 19, 87, 52]\n})\ndf_as_html = df.to_html()","label":"Feel free to edit the Python code"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;AA1wUmdWyfnFGMiybj4rn&quot;,&quot;blockName&quot;:&quot;python-pandas&quot;,&quot;content&quot;:&quot;import pandas as pd\ndf = pd.DataFrame({\n    'a': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I'],\n    'b': [28, 55, 43, 91, 81, 53, 19, 87, 52]\n})\ndf_as_html = df.to_html()&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the Python code&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;text/html&quot;,&quot;description&quot;:&quot;df_as_html&quot;,&quot;key&quot;:&quot;AA1wUmdWyfnFGMiybj4rn/df_as_html&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"GSR0EhU1w0opPyZoLJP5t","outputs":[["df_as_html","text/html"]],"blockName":"python-pandas","mode":"editor","editable":true,"content":"import pandas as pd\ndf = pd.DataFrame({\n    'a': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I'],\n    'b': [28, 55, 43, 91, 81, 53, 19, 87, 52]\n})\ndf_as_html = df.to_html()","label":"Feel free to edit the Python code"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;GSR0EhU1w0opPyZoLJP5t&quot;,&quot;blockName&quot;:&quot;python-pandas&quot;,&quot;content&quot;:&quot;import pandas as pd\ndf = pd.DataFrame({\n    'a': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I'],\n    'b': [28, 55, 43, 91, 81, 53, 19, 87, 52]\n})\ndf_as_html = df.to_html()&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the Python code&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;df_as_html&quot;,&quot;text/html&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/html {"blockId":"OkuiBwmebvgcljJFfTSe6","blockName":"html-2","input":{"contentType":"text/html","description":"python-pandas: df_as_html","key":"AA1wUmdWyfnFGMiybj4rn/df_as_html"}} -->
-<div class="wp-block-inseri-core-html" data-attributes="{&quot;blockId&quot;:&quot;OkuiBwmebvgcljJFfTSe6&quot;,&quot;blockName&quot;:&quot;html-2&quot;,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/html&quot;,&quot;description&quot;:&quot;python-pandas: df_as_html&quot;,&quot;key&quot;:&quot;AA1wUmdWyfnFGMiybj4rn/df_as_html&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/html {"blockId":"OkuiBwmebvgcljJFfTSe6","blockName":"html-2","inputKey":"GSR0EhU1w0opPyZoLJP5t/df_as_html"} -->
+<div class="wp-block-inseri-core-html" data-attributes="{&quot;blockId&quot;:&quot;OkuiBwmebvgcljJFfTSe6&quot;,&quot;blockName&quot;:&quot;html-2&quot;,&quot;inputKey&quot;:&quot;GSR0EhU1w0opPyZoLJP5t/df_as_html&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/html -->
 
-<!-- wp:inseri-core/download {"blockId":"bpWCsyw6GL29OhzTl68c1","blockName":"download-EXw","input":{"key":"AA1wUmdWyfnFGMiybj4rn/df_as_html","contentType":"text/html","description":"python-pandas: df_as_html"},"label":"Download HTML","fileName":"table.html"} -->
-<div class="wp-block-inseri-core-download" data-attributes="{&quot;blockId&quot;:&quot;bpWCsyw6GL29OhzTl68c1&quot;,&quot;blockName&quot;:&quot;download-EXw&quot;,&quot;fileName&quot;:&quot;table.html&quot;,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/html&quot;,&quot;description&quot;:&quot;python-pandas: df_as_html&quot;,&quot;key&quot;:&quot;AA1wUmdWyfnFGMiybj4rn/df_as_html&quot;},&quot;label&quot;:&quot;Download HTML&quot;}">is loading ...</div>
+<!-- wp:inseri-core/download {"blockId":"bpWCsyw6GL29OhzTl68c1","blockName":"download-EXw","inputKey":"GSR0EhU1w0opPyZoLJP5t/df_as_html","label":"Download HTML","fileName":"pandas_table"} -->
+<div class="wp-block-inseri-core-download" data-attributes="{&quot;blockId&quot;:&quot;bpWCsyw6GL29OhzTl68c1&quot;,&quot;blockName&quot;:&quot;download-EXw&quot;,&quot;fileName&quot;:&quot;pandas_table&quot;,&quot;inputKey&quot;:&quot;GSR0EhU1w0opPyZoLJP5t/df_as_html&quot;,&quot;label&quot;:&quot;Download HTML&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/download -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>352</wp:post_id>
@@ -2370,10 +2339,14 @@
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[python-pandas-html]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Plotly Chart Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=360</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=360</link>
 		<pubDate>Sun, 12 Mar 2023 13:53:16 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=360</guid>
@@ -2382,24 +2355,24 @@
 <p>The <strong>Plotly Chart</strong> block enables interactive visualisation using the great <a rel="noreferrer noopener" href="https://plotly.com/javascript/" target="_blank">Plotly.js</a> library via its JSON schema - see <a rel="noreferrer noopener" href="https://plotly.com/chart-studio-help/json-chart-schema/" target="_blank">Plotly JSON chart schema</a>. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"KaCV6b1xBVHc4v4LUH6u1","output":{"key":"KaCV6b1xBVHc4v4LUH6u1/content","default":"","contentType":"application/json","description":"content"},"blockName":"textEditor-1","editable":true,"content":"{\n    \u0022data\u0022: [\n        {\n            \u0022x\u0022: [\n                \u0022giraffes\u0022,\n                \u0022orangutans\u0022,\n                \u0022monkeys\u0022\n            ],\n            \u0022y\u0022: [\n                20,\n                14,\n                23\n            ],\n            \u0022type\u0022: \u0022bar\u0022\n        }\n    ],\n    \u0022layout\u0022:{\u0022height\u0022:500}\n}","label":"Feel free to edit the JSON text below"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1&quot;,&quot;blockName&quot;:&quot;textEditor-1&quot;,&quot;content&quot;:&quot;{\n    \&quot;data\&quot;: [\n        {\n            \&quot;x\&quot;: [\n                \&quot;giraffes\&quot;,\n                \&quot;orangutans\&quot;,\n                \&quot;monkeys\&quot;\n            ],\n            \&quot;y\&quot;: [\n                20,\n                14,\n                23\n            ],\n            \&quot;type\&quot;: \&quot;bar\&quot;\n        }\n    ],\n    \&quot;layout\&quot;:{\&quot;height\&quot;:500}\n}&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"KaCV6b1xBVHc4v4LUH6u1","blockName":"textEditor-1","editable":true,"content":"{\n    \u0022data\u0022: [\n        {\n            \u0022x\u0022: [\n                \u0022giraffes\u0022,\n                \u0022orangutans\u0022,\n                \u0022monkeys\u0022\n            ],\n            \u0022y\u0022: [\n                20,\n                14,\n                23\n            ],\n            \u0022type\u0022: \u0022bar\u0022\n        }\n    ],\n    \u0022layout\u0022:{\u0022height\u0022:500}\n}","contentType":"application/json","label":"Feel free to edit the JSON text below"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1&quot;,&quot;blockName&quot;:&quot;textEditor-1&quot;,&quot;content&quot;:&quot;{\n    \&quot;data\&quot;: [\n        {\n            \&quot;x\&quot;: [\n                \&quot;giraffes\&quot;,\n                \&quot;orangutans\&quot;,\n                \&quot;monkeys\&quot;\n            ],\n            \&quot;y\&quot;: [\n                20,\n                14,\n                23\n            ],\n            \&quot;type\&quot;: \&quot;bar\&quot;\n        }\n    ],\n    \&quot;layout\&quot;:{\&quot;height\&quot;:500}\n}&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
-<!-- wp:inseri-core/plotly {"blockId":"mVlkcjaiGTlRVzh8dLqWD","blockName":"plotly-TkT","inputFull":{"key":"KaCV6b1xBVHc4v4LUH6u1/content","contentType":"application/json","description":"textEditor-1: content","default":""},"outputs":[{"key":"mVlkcjaiGTlRVzh8dLqWD/onClick","contentType":"application/json","description":"onClick"}]} -->
-<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;mVlkcjaiGTlRVzh8dLqWD&quot;,&quot;blockName&quot;:&quot;plotly-TkT&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputData&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputFull&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor-1: content&quot;,&quot;key&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1/content&quot;},&quot;inputLayout&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;onClick&quot;,&quot;key&quot;:&quot;mVlkcjaiGTlRVzh8dLqWD/onClick&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/plotly {"blockId":"hrbGpj0iDhYFnrD124Ene","blockName":"plotly","inputFull":"KaCV6b1xBVHc4v4LUH6u1/content","outputs":[["onClick","click"]]} -->
+<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;hrbGpj0iDhYFnrD124Ene&quot;,&quot;blockName&quot;:&quot;plotly&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:&quot;&quot;,&quot;inputData&quot;:&quot;&quot;,&quot;inputFull&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1/content&quot;,&quot;inputLayout&quot;:&quot;&quot;,&quot;outputs&quot;:[[&quot;onClick&quot;,&quot;click&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/plotly -->
 
 <!-- wp:paragraph -->
 <p>You can try to click on one of the columns and the corresponding value will be shown dynamically below in the <strong>Text Viewer</strong> block (some small manipulation was done in the <strong>Python Code</strong> block, which runs automatically and is invisible to the visitor). Also, feel free to edit the JSON input used to generate the plot.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"RJLVQpxlH2kfhfW5aEOwL","inputs":{"selected_value":{"contentType":"application/json","description":"plotly-TkT: onClick","key":"mVlkcjaiGTlRVzh8dLqWD/onClick"}},"outputs":[{"key":"RJLVQpxlH2kfhfW5aEOwL/res","contentType":"application/json","description":"res"}],"blockName":"python-WAT","mode":"editor","height":60,"content":"res = {selected_value[0][\u0022x\u0022]:selected_value[0][\u0022y\u0022]}","isVisible":false,"autoTrigger":true} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:true,&quot;blockId&quot;:&quot;RJLVQpxlH2kfhfW5aEOwL&quot;,&quot;blockName&quot;:&quot;python-WAT&quot;,&quot;content&quot;:&quot;res = {selected_value[0][\&quot;x\&quot;]:selected_value[0][\&quot;y\&quot;]}&quot;,&quot;editable&quot;:false,&quot;height&quot;:60,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{&quot;selected_value&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;plotly-TkT: onClick&quot;,&quot;key&quot;:&quot;mVlkcjaiGTlRVzh8dLqWD/onClick&quot;}},&quot;isVisible&quot;:false,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;res&quot;,&quot;key&quot;:&quot;RJLVQpxlH2kfhfW5aEOwL/res&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"sopWCY58UGn8FxJdAvbIA","inputs":{"selected_value":"hrbGpj0iDhYFnrD124Ene/onClick"},"outputs":[["res","application/json"]],"blockName":"python","mode":"editor","height":63,"content":"res = {selected_value[0][\u0022x\u0022]:selected_value[0][\u0022y\u0022]}","isVisible":false,"autoTrigger":true} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:true,&quot;blockId&quot;:&quot;sopWCY58UGn8FxJdAvbIA&quot;,&quot;blockName&quot;:&quot;python&quot;,&quot;content&quot;:&quot;res = {selected_value[0][\&quot;x\&quot;]:selected_value[0][\&quot;y\&quot;]}&quot;,&quot;editable&quot;:false,&quot;height&quot;:63,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{&quot;selected_value&quot;:&quot;hrbGpj0iDhYFnrD124Ene/onClick&quot;},&quot;isVisible&quot;:false,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;application/json&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"FDCPJq1oSMjVGD5MHLfzq","input":{"contentType":"application/json","description":"python-WAT: res","key":"RJLVQpxlH2kfhfW5aEOwL/res"},"blockName":"textViewer-d0u","height":60,"label":"Selected Column and the corresponding value"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;FDCPJq1oSMjVGD5MHLfzq&quot;,&quot;blockName&quot;:&quot;textViewer-d0u&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;python-WAT: res&quot;,&quot;key&quot;:&quot;RJLVQpxlH2kfhfW5aEOwL/res&quot;},&quot;label&quot;:&quot;Selected Column and the corresponding value&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"FDCPJq1oSMjVGD5MHLfzq","inputKey":"sopWCY58UGn8FxJdAvbIA/res","blockName":"textViewer-d0u","height":60,"label":"Selected Column and the corresponding value"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;FDCPJq1oSMjVGD5MHLfzq&quot;,&quot;blockName&quot;:&quot;textViewer-d0u&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;inputKey&quot;:&quot;sopWCY58UGn8FxJdAvbIA/res&quot;,&quot;label&quot;:&quot;Selected Column and the corresponding value&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>360</wp:post_id>
@@ -2445,10 +2418,14 @@
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[plotly-chart]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Local File Import Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=411</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=411</link>
 		<pubDate>Mon, 27 Mar 2023 06:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=411</guid>
@@ -2461,16 +2438,16 @@
 <p>For example we can import a text file.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/file-drop {"blockId":"6Du6NHMeUeBNzy6Z5T225","blockName":"file-drop","output":{"key":"6Du6NHMeUeBNzy6Z5T225/data","contentType":"","default":"","description":"visitor provided data"},"mainText":"Drag and drop a text file or click here","accepts":["text/plain"],"height":100} -->
-<div class="wp-block-inseri-core-file-drop" data-attributes="{&quot;accepts&quot;:[&quot;text/plain&quot;],&quot;blockId&quot;:&quot;6Du6NHMeUeBNzy6Z5T225&quot;,&quot;blockName&quot;:&quot;file-drop&quot;,&quot;height&quot;:100,&quot;mainText&quot;:&quot;Drag and drop a text file or click here&quot;,&quot;multiple&quot;:false,&quot;output&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;visitor provided data&quot;,&quot;key&quot;:&quot;6Du6NHMeUeBNzy6Z5T225/data&quot;},&quot;subText&quot;:&quot;provide your file to process...&quot;}">is loading ...</div>
+<!-- wp:inseri-core/file-drop {"blockId":"6Du6NHMeUeBNzy6Z5T225","blockName":"file-drop","mainText":"Drag and drop a text file or click here","accepts":["text/plain"],"height":100} -->
+<div class="wp-block-inseri-core-file-drop" data-attributes="{&quot;accepts&quot;:[&quot;text/plain&quot;],&quot;blockId&quot;:&quot;6Du6NHMeUeBNzy6Z5T225&quot;,&quot;blockName&quot;:&quot;file-drop&quot;,&quot;height&quot;:100,&quot;mainText&quot;:&quot;Drag and drop a text file or click here&quot;,&quot;multiple&quot;:false,&quot;subText&quot;:&quot;provide your file to process...&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/file-drop -->
 
 <!-- wp:paragraph -->
 <p>And next we can display its content using the Text Viewer block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"jFrAmqgH1F0cBUi9mmwVv","input":{"contentType":"text/plain","description":"file-drop-GHP: visitor provided data","default":"","key":"6Du6NHMeUeBNzy6Z5T225/data"},"blockName":"textViewer"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;jFrAmqgH1F0cBUi9mmwVv&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;file-drop-GHP: visitor provided data&quot;,&quot;key&quot;:&quot;6Du6NHMeUeBNzy6Z5T225/data&quot;},&quot;label&quot;:&quot;&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"jFrAmqgH1F0cBUi9mmwVv","inputKey":"6Du6NHMeUeBNzy6Z5T225/data","blockName":"textViewer"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;jFrAmqgH1F0cBUi9mmwVv&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;inputKey&quot;:&quot;6Du6NHMeUeBNzy6Z5T225/data&quot;,&quot;label&quot;:&quot;&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>411</wp:post_id>
@@ -2517,7 +2494,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Zenodo Repository Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=446</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=446</link>
 		<pubDate>Mon, 17 Apr 2023 14:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=446</guid>
@@ -2530,12 +2507,12 @@
 <p>Next, for the DOI <a rel="noreferrer noopener" href="https://doi.org/10.5281/zenodo.7767654" target="_blank">10.5281/zenodo.7767654</a> we preselected only the <code>txt</code> files in order to allow the visitors to see the file content using the Text Viewer block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/zenodo {"blockId":"FogSZUfAD0gi668V1NZG8","blockName":"zenodo","label":"Please select a file (source DOI 10.5281/zenodo.7767654)","output":{"key":"FogSZUfAD0gi668V1NZG8/file","contentType":"","default":"","description":"file"},"doi":"10.5281/zenodo.7767654","files":[{"label":"gs_rasmm_space.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_rasmm_space.txt"},{"label":"gs_voxmm_space.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_voxmm_space.txt"},{"label":"gs_vox_space.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_vox_space.txt"},{"label":"points_data.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/points_data.txt"},{"label":"streamlines_data.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/streamlines_data.txt"}]} -->
-<div class="wp-block-inseri-core-zenodo" data-attributes="{&quot;blockId&quot;:&quot;FogSZUfAD0gi668V1NZG8&quot;,&quot;blockName&quot;:&quot;zenodo&quot;,&quot;doi&quot;:&quot;10.5281/zenodo.7767654&quot;,&quot;files&quot;:[{&quot;label&quot;:&quot;gs_rasmm_space.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_rasmm_space.txt&quot;},{&quot;label&quot;:&quot;gs_voxmm_space.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_voxmm_space.txt&quot;},{&quot;label&quot;:&quot;gs_vox_space.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_vox_space.txt&quot;},{&quot;label&quot;:&quot;points_data.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/points_data.txt&quot;},{&quot;label&quot;:&quot;streamlines_data.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/streamlines_data.txt&quot;}],&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Please select a file (source DOI 10.5281/zenodo.7767654)&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;file&quot;,&quot;key&quot;:&quot;FogSZUfAD0gi668V1NZG8/file&quot;},&quot;selectedFile&quot;:null}">is loading ...</div>
+<!-- wp:inseri-core/zenodo {"blockId":"FogSZUfAD0gi668V1NZG8","blockName":"zenodo","label":"Please select a file (source DOI 10.5281/zenodo.7767654)","doi":"10.5281/zenodo.7767654","files":[{"label":"gs_rasmm_space.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_rasmm_space.txt"},{"label":"gs_voxmm_space.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_voxmm_space.txt"},{"label":"gs_vox_space.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_vox_space.txt"},{"label":"points_data.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/points_data.txt"},{"label":"streamlines_data.txt","value":"https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/streamlines_data.txt"}]} -->
+<div class="wp-block-inseri-core-zenodo" data-attributes="{&quot;blockId&quot;:&quot;FogSZUfAD0gi668V1NZG8&quot;,&quot;blockName&quot;:&quot;zenodo&quot;,&quot;doi&quot;:&quot;10.5281/zenodo.7767654&quot;,&quot;files&quot;:[{&quot;label&quot;:&quot;gs_rasmm_space.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_rasmm_space.txt&quot;},{&quot;label&quot;:&quot;gs_voxmm_space.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_voxmm_space.txt&quot;},{&quot;label&quot;:&quot;gs_vox_space.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/gs_vox_space.txt&quot;},{&quot;label&quot;:&quot;points_data.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/points_data.txt&quot;},{&quot;label&quot;:&quot;streamlines_data.txt&quot;,&quot;value&quot;:&quot;https://zenodo.org/api/files/963dc4ea-3df5-4bff-a314-4226cc772fa9/streamlines_data.txt&quot;}],&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Please select a file (source DOI 10.5281/zenodo.7767654)&quot;,&quot;selectedFile&quot;:null}">is loading ...</div>
 <!-- /wp:inseri-core/zenodo -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"aKGMHSAFfInnci4JVEWrD","input":{"contentType":"text/plain","description":"zenodo: file","default":"","key":"FogSZUfAD0gi668V1NZG8/file"},"blockName":"textViewer-qbj","height":246,"label":"The content of the selected file"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;aKGMHSAFfInnci4JVEWrD&quot;,&quot;blockName&quot;:&quot;textViewer-qbj&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:246,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;zenodo: file&quot;,&quot;key&quot;:&quot;FogSZUfAD0gi668V1NZG8/file&quot;},&quot;label&quot;:&quot;The content of the selected file&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"aKGMHSAFfInnci4JVEWrD","inputKey":"FogSZUfAD0gi668V1NZG8/file","blockName":"textViewer-qbj","height":246,"label":"The content of the selected file"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;aKGMHSAFfInnci4JVEWrD&quot;,&quot;blockName&quot;:&quot;textViewer-qbj&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:246,&quot;inputKey&quot;:&quot;FogSZUfAD0gi668V1NZG8/file&quot;,&quot;label&quot;:&quot;The content of the selected file&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->
 
 <!-- wp:paragraph -->
@@ -2590,7 +2567,7 @@
 							</item>
 					<item>
 		<title><![CDATA[inseri.swiss meets WordPress]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=499</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=499</link>
 		<pubDate>Thu, 01 Sep 2022 08:22:21 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=499</guid>
@@ -2649,7 +2626,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Text Editor and Text Viewer Blocks]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=558</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=558</link>
 		<pubDate>Wed, 14 Dec 2022 08:10:00 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=558</guid>
@@ -2658,16 +2635,16 @@
 <p>Working with text can be very powerful. The <strong>Text Editor</strong> block allows us to insert text. We will create a publicly editable block with valid JSON, that the visitors can edit. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"d6LMf6uDcLLN9Lm2uSvRS","output":{"key":"d6LMf6uDcLLN9Lm2uSvRS/content","default":"","contentType":"application/json","description":"content"},"blockName":"textEditor","height":97,"editable":true,"content":"{\n  \u0022Key\u0022: \u0022value\u0022\n}","label":"Feel free to edit the JSON text below"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;d6LMf6uDcLLN9Lm2uSvRS&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;{\n  \&quot;Key\&quot;: \&quot;value\&quot;\n}&quot;,&quot;editable&quot;:true,&quot;height&quot;:97,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;d6LMf6uDcLLN9Lm2uSvRS/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"d6LMf6uDcLLN9Lm2uSvRS","blockName":"textEditor","height":97,"editable":true,"content":"{\n  \u0022Key\u0022: \u0022value\u0022\n}","contentType":"application/json","label":"Feel free to edit the JSON text below"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;d6LMf6uDcLLN9Lm2uSvRS&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;{\n  \&quot;Key\&quot;: \&quot;value\&quot;\n}&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:97,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
 <!-- wp:paragraph -->
 <p>The <strong>Text Viewer</strong> block allows displaying the text, without the option of editing it. Change the text above, in the Text Editor and it will be immediately displayed below in the Text Viewer.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"3QuqJalUH9kFvyu8tXsRn","input":{"contentType":"application/json","description":"textEditor: content","default":"","key":"d6LMf6uDcLLN9Lm2uSvRS/content"},"blockName":"textViewer","height":105} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;3QuqJalUH9kFvyu8tXsRn&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:105,&quot;input&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor: content&quot;,&quot;key&quot;:&quot;d6LMf6uDcLLN9Lm2uSvRS/content&quot;},&quot;label&quot;:&quot;&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"3QuqJalUH9kFvyu8tXsRn","inputKey":"d6LMf6uDcLLN9Lm2uSvRS/content","blockName":"textViewer","height":105} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;3QuqJalUH9kFvyu8tXsRn&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:105,&quot;inputKey&quot;:&quot;d6LMf6uDcLLN9Lm2uSvRS/content&quot;,&quot;label&quot;:&quot;&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>558</wp:post_id>
@@ -2715,10 +2692,14 @@
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[text-editor-and-text-viewer]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Download Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=608</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=608</link>
 		<pubDate>Mon, 27 Mar 2023 08:10:18 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=608</guid>
@@ -2731,16 +2712,16 @@
 <p>For example, let's write some text in a Text Editor block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"1EyC7Q7EqJQN4o6Uw4oZd","output":{"key":"1EyC7Q7EqJQN4o6Uw4oZd/content","default":"","contentType":"text/plain","description":"content"},"blockName":"textEditor","editable":true,"content":"Hello World.","label":"Feel free to edit the text"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;1EyC7Q7EqJQN4o6Uw4oZd&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;Hello World.&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the text&quot;,&quot;output&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;content&quot;,&quot;key&quot;:&quot;1EyC7Q7EqJQN4o6Uw4oZd/content&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"1EyC7Q7EqJQN4o6Uw4oZd","blockName":"textEditor","editable":true,"content":"Hello World.","contentType":"text/plain","label":"Feel free to edit the text"} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;1EyC7Q7EqJQN4o6Uw4oZd&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;Hello World.&quot;,&quot;contentType&quot;:&quot;text/plain&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the text&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
 <!-- wp:paragraph -->
 <p>Next, we will use the <strong>Download</strong> block to download the content as a file.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/download {"blockId":"6LsMQ34Eo4FQ2zjO2vFam","blockName":"download-DGd","input":{"key":"1EyC7Q7EqJQN4o6Uw4oZd/content","contentType":"text/plain","description":"textEditor: content","default":""},"fileName":"from_text_editor.txt"} -->
-<div class="wp-block-inseri-core-download" data-attributes="{&quot;blockId&quot;:&quot;6LsMQ34Eo4FQ2zjO2vFam&quot;,&quot;blockName&quot;:&quot;download-DGd&quot;,&quot;fileName&quot;:&quot;from_text_editor.txt&quot;,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;textEditor: content&quot;,&quot;key&quot;:&quot;1EyC7Q7EqJQN4o6Uw4oZd/content&quot;},&quot;label&quot;:&quot;Download&quot;}">is loading ...</div>
+<!-- wp:inseri-core/download {"blockId":"6LsMQ34Eo4FQ2zjO2vFam","blockName":"download-DGd","inputKey":"1EyC7Q7EqJQN4o6Uw4oZd/content","fileName":"from_text_editor"} -->
+<div class="wp-block-inseri-core-download" data-attributes="{&quot;blockId&quot;:&quot;6LsMQ34Eo4FQ2zjO2vFam&quot;,&quot;blockName&quot;:&quot;download-DGd&quot;,&quot;fileName&quot;:&quot;from_text_editor&quot;,&quot;inputKey&quot;:&quot;1EyC7Q7EqJQN4o6Uw4oZd/content&quot;,&quot;label&quot;:&quot;Download&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/download -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>608</wp:post_id>
@@ -2799,7 +2780,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=647</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=647</link>
 		<pubDate>Wed, 23 Nov 2022 15:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=5</guid>
@@ -2824,7 +2805,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Python and Plotly]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=881</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=881</link>
 		<pubDate>Mon, 05 Jun 2023 14:32:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=881</guid>
@@ -2855,12 +2836,12 @@
 <p>Now the variable <kbd>res</kbd> can be defined as a JSON output of our Python Code, and used further for the JSON description of the Plotly Chart block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"kakX8truo5miz7rjdnXbW","outputs":[{"key":"kakX8truo5miz7rjdnXbW/res","contentType":"application/json","description":"res"}],"blockName":"python","mode":"editor","height":425,"content":"import micropip\nawait micropip.install('plotly');\n\n# make sure you load pandas (needed by plotly.express)\nimport pandas as pd\n\nimport plotly.express as px\nimport plotly.io as pio\n\nfig = px.bar(x=[\u0022a\u0022, \u0022b\u0022, \u0022c\u0022], y=[1, 3, 2])\n\nfig_as_json = pio.to_json(fig)\n\n# make sure you load the string (json standard library is needed)\nimport json\n# res is output of this block\nres = json.loads(fig_as_json)"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;kakX8truo5miz7rjdnXbW&quot;,&quot;blockName&quot;:&quot;python&quot;,&quot;content&quot;:&quot;import micropip\nawait micropip.install('plotly');\n\n# make sure you load pandas (needed by plotly.express)\nimport pandas as pd\n\nimport plotly.express as px\nimport plotly.io as pio\n\nfig = px.bar(x=[\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;], y=[1, 3, 2])\n\nfig_as_json = pio.to_json(fig)\n\n# make sure you load the string (json standard library is needed)\nimport json\n# res is output of this block\nres = json.loads(fig_as_json)&quot;,&quot;editable&quot;:false,&quot;height&quot;:425,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;res&quot;,&quot;key&quot;:&quot;kakX8truo5miz7rjdnXbW/res&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"HTDHmRh3QXscesAkipzfH","outputs":[["res","application/json"]],"blockName":"python-plotly","mode":"editor","content":"import micropip\nawait micropip.install('plotly');\n\n# make sure you load pandas (needed by plotly.express)\nimport pandas as pd\n\nimport plotly.express as px\nimport plotly.io as pio\n\nfig = px.bar(x=[\u0022a\u0022, \u0022b\u0022, \u0022c\u0022], y=[1, 3, 2])\n\nfig_as_json = pio.to_json(fig)\n\n# make sure you load the string (json standard library is needed)\nimport json\n# res is output of this block\nres = json.loads(fig_as_json)"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;HTDHmRh3QXscesAkipzfH&quot;,&quot;blockName&quot;:&quot;python-plotly&quot;,&quot;content&quot;:&quot;import micropip\nawait micropip.install('plotly');\n\n# make sure you load pandas (needed by plotly.express)\nimport pandas as pd\n\nimport plotly.express as px\nimport plotly.io as pio\n\nfig = px.bar(x=[\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;], y=[1, 3, 2])\n\nfig_as_json = pio.to_json(fig)\n\n# make sure you load the string (json standard library is needed)\nimport json\n# res is output of this block\nres = json.loads(fig_as_json)&quot;,&quot;editable&quot;:false,&quot;height&quot;:150,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;application/json&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/plotly {"blockId":"J0nScd4H4QhmmeOy1bXbG","blockName":"plotly","inputFull":{"key":"kakX8truo5miz7rjdnXbW/res","contentType":"application/json","description":"python-IWE: res"}} -->
-<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;J0nScd4H4QhmmeOy1bXbG&quot;,&quot;blockName&quot;:&quot;plotly&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputData&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputFull&quot;:{&quot;contentType&quot;:&quot;application/json&quot;,&quot;description&quot;:&quot;python-IWE: res&quot;,&quot;key&quot;:&quot;kakX8truo5miz7rjdnXbW/res&quot;},&quot;inputLayout&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;outputs&quot;:[]}">is loading ...</div>
+<!-- wp:inseri-core/plotly {"blockId":"J0nScd4H4QhmmeOy1bXbG","blockName":"plotly","inputFull":"HTDHmRh3QXscesAkipzfH/res"} -->
+<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;J0nScd4H4QhmmeOy1bXbG&quot;,&quot;blockName&quot;:&quot;plotly&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:&quot;&quot;,&quot;inputData&quot;:&quot;&quot;,&quot;inputFull&quot;:&quot;HTDHmRh3QXscesAkipzfH/res&quot;,&quot;inputLayout&quot;:&quot;&quot;,&quot;outputs&quot;:[]}">is loading ...</div>
 <!-- /wp:inseri-core/plotly -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>881</wp:post_id>
@@ -2891,7 +2872,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Word Count]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=936</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=936</link>
 		<pubDate>Mon, 22 May 2023 08:35:04 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=936</guid>
@@ -2904,32 +2885,32 @@
 <p>We use the <strong>Local File Import</strong> block to allow the visitors to import a local file.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/file-drop {"blockId":"C11DC0rUdCsN780vuMNUX","blockName":"file-drop-1","output":{"key":"C11DC0rUdCsN780vuMNUX/data","contentType":"","default":"","description":"visitor provided data"},"mainText":"Drag and drop a text file or click here","subText":"provide your text file to process..."} -->
-<div class="wp-block-inseri-core-file-drop" data-attributes="{&quot;accepts&quot;:[],&quot;blockId&quot;:&quot;C11DC0rUdCsN780vuMNUX&quot;,&quot;blockName&quot;:&quot;file-drop-1&quot;,&quot;height&quot;:150,&quot;mainText&quot;:&quot;Drag and drop a text file or click here&quot;,&quot;multiple&quot;:false,&quot;output&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;visitor provided data&quot;,&quot;key&quot;:&quot;C11DC0rUdCsN780vuMNUX/data&quot;},&quot;subText&quot;:&quot;provide your text file to process...&quot;}">is loading ...</div>
+<!-- wp:inseri-core/file-drop {"blockId":"C11DC0rUdCsN780vuMNUX","blockName":"file-drop-1","mainText":"Drag and drop a text file or click here","subText":"provide your text file to process..."} -->
+<div class="wp-block-inseri-core-file-drop" data-attributes="{&quot;accepts&quot;:[],&quot;blockId&quot;:&quot;C11DC0rUdCsN780vuMNUX&quot;,&quot;blockName&quot;:&quot;file-drop-1&quot;,&quot;height&quot;:150,&quot;mainText&quot;:&quot;Drag and drop a text file or click here&quot;,&quot;multiple&quot;:false,&quot;subText&quot;:&quot;provide your text file to process...&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/file-drop -->
 
 <!-- wp:paragraph -->
 <p>Below we display the content of the file using the <strong>Text Viewer</strong> block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"VR7yBfW0Waaj9kVocNaCn","input":{"contentType":"text/plain","description":"file-drop-1: visitor provided data","default":"","key":"C11DC0rUdCsN780vuMNUX/data"},"blockName":"textViewer-BRP","label":"The content of the imported text file"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;VR7yBfW0Waaj9kVocNaCn&quot;,&quot;blockName&quot;:&quot;textViewer-BRP&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;file-drop-1: visitor provided data&quot;,&quot;key&quot;:&quot;C11DC0rUdCsN780vuMNUX/data&quot;},&quot;label&quot;:&quot;The content of the imported text file&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"VR7yBfW0Waaj9kVocNaCn","inputKey":"C11DC0rUdCsN780vuMNUX/data","blockName":"textViewer-BRP","label":"The content of the imported text file"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;VR7yBfW0Waaj9kVocNaCn&quot;,&quot;blockName&quot;:&quot;textViewer-BRP&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;inputKey&quot;:&quot;C11DC0rUdCsN780vuMNUX/data&quot;,&quot;label&quot;:&quot;The content of the imported text file&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->
 
 <!-- wp:paragraph -->
 <p>We use the <strong>Python Code</strong> block to find the most used 10 words that we prepare as an html using the <a rel="noreferrer noopener" href="https://pandas.pydata.org/" target="_blank"><strong>pandas</strong></a> Python package. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"zKxDNWUyR2y4Tf6Nqrr7W","inputs":{"text":{"contentType":"text/plain","description":"file-drop-1: visitor provided data","default":"","key":"C11DC0rUdCsN780vuMNUX/data"}},"outputs":[{"key":"zKxDNWUyR2y4Tf6Nqrr7W/df_as_html","contentType":"text/html","description":"df_as_html"}],"blockName":"python-1","mode":"editor","height":299,"content":"from collections import Counter\n\n# text is the content of the imported local file \nwords = text.split()\nwords = [el.lower() for el in words]\nword_counter = Counter(words)\ntop_10 = word_counter.most_common(10)\n\nimport pandas as pd\n\ndf = pd.DataFrame(top_10, columns=[\u0022Word\u0022, \u0022Count\u0022])\ndf_as_html = df.to_html(index=False)","label":"Simple Word Count in Python"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;zKxDNWUyR2y4Tf6Nqrr7W&quot;,&quot;blockName&quot;:&quot;python-1&quot;,&quot;content&quot;:&quot;from collections import Counter\n\n# text is the content of the imported local file \nwords = text.split()\nwords = [el.lower() for el in words]\nword_counter = Counter(words)\ntop_10 = word_counter.most_common(10)\n\nimport pandas as pd\n\ndf = pd.DataFrame(top_10, columns=[\&quot;Word\&quot;, \&quot;Count\&quot;])\ndf_as_html = df.to_html(index=False)&quot;,&quot;editable&quot;:false,&quot;height&quot;:299,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{&quot;text&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;default&quot;:&quot;&quot;,&quot;description&quot;:&quot;file-drop-1: visitor provided data&quot;,&quot;key&quot;:&quot;C11DC0rUdCsN780vuMNUX/data&quot;}},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Simple Word Count in Python&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;text/html&quot;,&quot;description&quot;:&quot;df_as_html&quot;,&quot;key&quot;:&quot;zKxDNWUyR2y4Tf6Nqrr7W/df_as_html&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"YdFQOEeVrl7LUzUNcL0UI","inputs":{"text":"C11DC0rUdCsN780vuMNUX/data"},"outputs":[["df_as_html","text/html"]],"blockName":"python","mode":"editor","content":"from collections import Counter\n\n# text is the content of the imported local file \nwords = text.split()\nwords = [el.lower() for el in words]\nword_counter = Counter(words)\ntop_10 = word_counter.most_common(10)\n\nimport pandas as pd\n\ndf = pd.DataFrame(top_10, columns=[\u0022Word\u0022, \u0022Count\u0022])\ndf_as_html = df.to_html(index=False)"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;YdFQOEeVrl7LUzUNcL0UI&quot;,&quot;blockName&quot;:&quot;python&quot;,&quot;content&quot;:&quot;from collections import Counter\n\n# text is the content of the imported local file \nwords = text.split()\nwords = [el.lower() for el in words]\nword_counter = Counter(words)\ntop_10 = word_counter.most_common(10)\n\nimport pandas as pd\n\ndf = pd.DataFrame(top_10, columns=[\&quot;Word\&quot;, \&quot;Count\&quot;])\ndf_as_html = df.to_html(index=False)&quot;,&quot;editable&quot;:false,&quot;height&quot;:150,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{&quot;text&quot;:&quot;C11DC0rUdCsN780vuMNUX/data&quot;},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;df_as_html&quot;,&quot;text/html&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
 <!-- wp:paragraph -->
 <p>And in the last step we display the table using the <strong>HTML Code</strong> block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/html {"blockId":"gB1rz66LEZUdJkGGanuwX","blockName":"html-SnV","input":{"contentType":"text/html","description":"python-jfc: df_as_html","key":"zKxDNWUyR2y4Tf6Nqrr7W/df_as_html"}} -->
-<div class="wp-block-inseri-core-html" data-attributes="{&quot;blockId&quot;:&quot;gB1rz66LEZUdJkGGanuwX&quot;,&quot;blockName&quot;:&quot;html-SnV&quot;,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/html&quot;,&quot;description&quot;:&quot;python-jfc: df_as_html&quot;,&quot;key&quot;:&quot;zKxDNWUyR2y4Tf6Nqrr7W/df_as_html&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/html {"blockId":"gB1rz66LEZUdJkGGanuwX","blockName":"html-SnV","inputKey":"YdFQOEeVrl7LUzUNcL0UI/df_as_html"} -->
+<div class="wp-block-inseri-core-html" data-attributes="{&quot;blockId&quot;:&quot;gB1rz66LEZUdJkGGanuwX&quot;,&quot;blockName&quot;:&quot;html-SnV&quot;,&quot;inputKey&quot;:&quot;YdFQOEeVrl7LUzUNcL0UI/df_as_html&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>936</wp:post_id>
@@ -2962,7 +2943,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Matplotlib]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=968</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=968</link>
 		<pubDate>Mon, 05 Jun 2023 15:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=968</guid>
@@ -2989,12 +2970,12 @@
 <p>Now the variable <kbd>res</kbd> can be defined as a PNG output of our Python Code, and used further as an input in the Image Box block.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"kakX8truo5miz7rjdnXbW","outputs":[{"key":"kakX8truo5miz7rjdnXbW/res","contentType":"image/png","description":"res"}],"blockName":"python","mode":"editor","height":375,"content":"import matplotlib.pyplot as plt\nimport matplotlib\n\n# matplotlib backend needed with inseri-core\nmatplotlib.use('Agg')\n\nplt.bar(x=[\u0022a\u0022, \u0022b\u0022, \u0022c\u0022], height=[1, 3, 2])\n\n# save the figure as a bytes buffer (io standard library is needed)\nfrom io import BytesIO\nbuf = BytesIO()\nplt.savefig(buf, format='png', bbox_inches='tight')\n# res is output of this block\nres = buf.getvalue()"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;kakX8truo5miz7rjdnXbW&quot;,&quot;blockName&quot;:&quot;python&quot;,&quot;content&quot;:&quot;import matplotlib.pyplot as plt\nimport matplotlib\n\n# matplotlib backend needed with inseri-core\nmatplotlib.use('Agg')\n\nplt.bar(x=[\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;], height=[1, 3, 2])\n\n# save the figure as a bytes buffer (io standard library is needed)\nfrom io import BytesIO\nbuf = BytesIO()\nplt.savefig(buf, format='png', bbox_inches='tight')\n# res is output of this block\nres = buf.getvalue()&quot;,&quot;editable&quot;:false,&quot;height&quot;:375,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;image/png&quot;,&quot;description&quot;:&quot;res&quot;,&quot;key&quot;:&quot;kakX8truo5miz7rjdnXbW/res&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"9vuwaUz1sW9HjiTT83UfP","outputs":[["res","image/png"]],"blockName":"python-matplotlib","mode":"editor","content":"import matplotlib.pyplot as plt\nimport matplotlib\n\n# matplotlib backend needed with inseri-core\nmatplotlib.use('Agg')\n\nplt.bar(x=[\u0022a\u0022, \u0022b\u0022, \u0022c\u0022], height=[1, 3, 2])\n\n# save the figure as a bytes buffer (io standard library is needed)\nfrom io import BytesIO\nbuf = BytesIO()\nplt.savefig(buf, format='png', bbox_inches='tight')\n# res is output of this block\nres = buf.getvalue()"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;9vuwaUz1sW9HjiTT83UfP&quot;,&quot;blockName&quot;:&quot;python-matplotlib&quot;,&quot;content&quot;:&quot;import matplotlib.pyplot as plt\nimport matplotlib\n\n# matplotlib backend needed with inseri-core\nmatplotlib.use('Agg')\n\nplt.bar(x=[\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;], height=[1, 3, 2])\n\n# save the figure as a bytes buffer (io standard library is needed)\nfrom io import BytesIO\nbuf = BytesIO()\nplt.savefig(buf, format='png', bbox_inches='tight')\n# res is output of this block\nres = buf.getvalue()&quot;,&quot;editable&quot;:false,&quot;height&quot;:150,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;image/png&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/image {"blockId":"8tmcgej1x5nPW8CAP2BjA","blockName":"image-ukc","input":{"key":"kakX8truo5miz7rjdnXbW/res","contentType":"image/png","description":"python: res"}} -->
-<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;8tmcgej1x5nPW8CAP2BjA&quot;,&quot;blockName&quot;:&quot;image-ukc&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:null,&quot;input&quot;:{&quot;contentType&quot;:&quot;image/png&quot;,&quot;description&quot;:&quot;python: res&quot;,&quot;key&quot;:&quot;kakX8truo5miz7rjdnXbW/res&quot;}}">is loading ...</div>
+<!-- wp:inseri-core/image {"blockId":"8tmcgej1x5nPW8CAP2BjA","blockName":"image-ukc","inputKey":"9vuwaUz1sW9HjiTT83UfP/res"} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;8tmcgej1x5nPW8CAP2BjA&quot;,&quot;blockName&quot;:&quot;image-ukc&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:null,&quot;inputKey&quot;:&quot;9vuwaUz1sW9HjiTT83UfP/res&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>968</wp:post_id>
@@ -3022,10 +3003,14 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Python and Requests Package]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=1127</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=1127</link>
 		<pubDate>Wed, 30 Aug 2023 10:43:11 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1127</guid>
@@ -3042,24 +3027,32 @@
 <p>If we need to fetch some <strong>text</strong> data we should use <code>open_url</code>.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"WmSsobFjg1uyRQ8MZaF6i","outputs":[{"key":"WmSsobFjg1uyRQ8MZaF6i/license","contentType":"text/plain","description":"license"}],"blockName":"python-open_url","mode":"editor","height":215,"content":"# import open_url\nfrom pyodide.http import open_url\n\nurl = \u0022https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/LICENSE\u0022\n\nlicense_as_stringIO = open_url(url) # io.StringIO\nlicense = license_as_stringIO.getvalue() # str ","label":"Click Run to fetch string data"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;WmSsobFjg1uyRQ8MZaF6i&quot;,&quot;blockName&quot;:&quot;python-open_url&quot;,&quot;content&quot;:&quot;# import open_url\nfrom pyodide.http import open_url\n\nurl = \&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/LICENSE\&quot;\n\nlicense_as_stringIO = open_url(url) # io.StringIO\nlicense = license_as_stringIO.getvalue() # str &quot;,&quot;editable&quot;:false,&quot;height&quot;:215,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Click Run to fetch string data&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;description&quot;:&quot;license&quot;,&quot;key&quot;:&quot;WmSsobFjg1uyRQ8MZaF6i/license&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"nzDuZbMAUKlPM5XNyt0xj","outputs":[["license","text/plain"]],"blockName":"python-open_url","mode":"editor","content":"# import open_url\nfrom pyodide.http import open_url\n\nurl = \u0022https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/LICENSE\u0022\n\nlicense_as_stringIO = open_url(url) # io.StringIO\nlicense = license_as_stringIO.getvalue() # str ","label":"Click Run to fetch string data"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;nzDuZbMAUKlPM5XNyt0xj&quot;,&quot;blockName&quot;:&quot;python-open_url&quot;,&quot;content&quot;:&quot;# import open_url\nfrom pyodide.http import open_url\n\nurl = \&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/LICENSE\&quot;\n\nlicense_as_stringIO = open_url(url) # io.StringIO\nlicense = license_as_stringIO.getvalue() # str &quot;,&quot;editable&quot;:false,&quot;height&quot;:150,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Click Run to fetch string data&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;license&quot;,&quot;text/plain&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"l33UYu3igbGF4h637ZQKm","input":{"contentType":"text/plain","description":"python-open_url: license","key":"WmSsobFjg1uyRQ8MZaF6i/license"},"blockName":"textViewer-license","label":"The content of the data fetched previously (you have to click Run above)"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;l33UYu3igbGF4h637ZQKm&quot;,&quot;blockName&quot;:&quot;textViewer-license&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;input&quot;:{&quot;contentType&quot;:&quot;text/plain&quot;,&quot;description&quot;:&quot;python-open_url: license&quot;,&quot;key&quot;:&quot;WmSsobFjg1uyRQ8MZaF6i/license&quot;},&quot;label&quot;:&quot;The content of the data fetched previously (you have to click Run above)&quot;}">is loading ...</div>
+<!-- wp:paragraph -->
+<p>Next we will use a Text Viewer block to display the fetched text data.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/text-viewer {"blockId":"l33UYu3igbGF4h637ZQKm","inputKey":"nzDuZbMAUKlPM5XNyt0xj/license","blockName":"textViewer-license","label":"The content of the data fetched previously (you have to click Run above)"} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;l33UYu3igbGF4h637ZQKm&quot;,&quot;blockName&quot;:&quot;textViewer-license&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:150,&quot;inputKey&quot;:&quot;nzDuZbMAUKlPM5XNyt0xj/license&quot;,&quot;label&quot;:&quot;The content of the data fetched previously (you have to click Run above)&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->
 
 <!-- wp:paragraph -->
 <p>If we want to fetch a <strong>binary</strong> object we should use <code>pyfetch</code>.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"nIxbVuth3Cany7HZuESuX","outputs":[{"key":"nIxbVuth3Cany7HZuESuX/response_bytes","contentType":"image/png","description":"response_bytes"}],"blockName":"python-pyfetch","mode":"editor","height":211,"content":"# import open_url\nfrom pyodide.http import pyfetch\n\nurl = \u0022https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/src/assets/inseri_logo.png\u0022\n\nresponse = await pyfetch(url, method=\u0022GET\u0022) # FetchResponse \nresponse_bytes = await response.bytes()","label":"Click Run to fetch binary data"} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;nIxbVuth3Cany7HZuESuX&quot;,&quot;blockName&quot;:&quot;python-pyfetch&quot;,&quot;content&quot;:&quot;# import open_url\nfrom pyodide.http import pyfetch\n\nurl = \&quot;https://raw.githubusercontent.com/inseri-swiss/inseri-core-wp/main/src/assets/inseri_logo.png\&quot;\n\nresponse = await pyfetch(url, method=\&quot;GET\&quot;) # FetchResponse \nresponse_bytes = await response.bytes()&quot;,&quot;editable&quot;:false,&quot;height&quot;:211,&quot;inputCode&quot;:{&quot;contentType&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;key&quot;:&quot;&quot;},&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Click Run to fetch binary data&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[{&quot;contentType&quot;:&quot;image/png&quot;,&quot;description&quot;:&quot;response_bytes&quot;,&quot;key&quot;:&quot;nIxbVuth3Cany7HZuESuX/response_bytes&quot;}]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"7xcKN0YyaBzPBoUMEqBgV","outputs":[["response_bytes","image/gif"]],"blockName":"python-pyfetch","mode":"editor","content":"# import open_url\nfrom pyodide.http import pyfetch\n\nurl = \u0022https://inseri.swiss/wp-content/uploads/2023/04/cropped-inseri_logo-150x150.png\u0022\n\nresponse = await pyfetch(url, method=\u0022GET\u0022) # FetchResponse \nresponse_bytes = await response.bytes()","label":"Click Run to fetch binary data"} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;7xcKN0YyaBzPBoUMEqBgV&quot;,&quot;blockName&quot;:&quot;python-pyfetch&quot;,&quot;content&quot;:&quot;# import open_url\nfrom pyodide.http import pyfetch\n\nurl = \&quot;https://inseri.swiss/wp-content/uploads/2023/04/cropped-inseri_logo-150x150.png\&quot;\n\nresponse = await pyfetch(url, method=\&quot;GET\&quot;) # FetchResponse \nresponse_bytes = await response.bytes()&quot;,&quot;editable&quot;:false,&quot;height&quot;:150,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Click Run to fetch binary data&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;response_bytes&quot;,&quot;image/gif&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/image {"blockId":"OZeLDESpeHRVDCx6YMXf2","blockName":"image-2KF","input":{"key":"nIxbVuth3Cany7HZuESuX/response_bytes","contentType":"image/png","description":"python-pyfetch: response_bytes"},"caption":"The content of the data fetched previously (you have to click Run above)","fit":"none"} -->
-<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;OZeLDESpeHRVDCx6YMXf2&quot;,&quot;blockName&quot;:&quot;image-2KF&quot;,&quot;caption&quot;:&quot;The content of the data fetched previously (you have to click Run above)&quot;,&quot;fit&quot;:&quot;none&quot;,&quot;height&quot;:null,&quot;input&quot;:{&quot;contentType&quot;:&quot;image/png&quot;,&quot;description&quot;:&quot;python-pyfetch: response_bytes&quot;,&quot;key&quot;:&quot;nIxbVuth3Cany7HZuESuX/response_bytes&quot;}}">is loading ...</div>
+<!-- wp:paragraph -->
+<p>Next we will use an Image Box block to display the fetched binary object (a PNG image).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/image {"blockId":"OZeLDESpeHRVDCx6YMXf2","blockName":"image-2KF","inputKey":"7xcKN0YyaBzPBoUMEqBgV/response_bytes","caption":"The content of the data fetched previously (you have to click Run above)","height":165} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;OZeLDESpeHRVDCx6YMXf2&quot;,&quot;blockName&quot;:&quot;image-2KF&quot;,&quot;caption&quot;:&quot;The content of the data fetched previously (you have to click Run above)&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:165,&quot;inputKey&quot;:&quot;7xcKN0YyaBzPBoUMEqBgV/response_bytes&quot;}">is loading ...</div>
 <!-- /wp:inseri-core/image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1127</wp:post_id>
@@ -3088,21 +3081,50 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=1150</link>
+		<pubDate>Wed, 12 Apr 2023 08:58:13 +0000</pubDate>
+		<dc:creator><![CDATA[5050152]]></dc:creator>
+		<guid isPermaLink="false">https://inseri.swiss/?p=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":{"elements":{"button":{"color":{"background":"var:preset|color|custom-color-1"}}}},"settings":{"color":{"palette":{"custom":[{"color":"#ffc400","name":"Color 1","slug":"custom-color-1"}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1150</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-12 08:58:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-12 08:58:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-12 08:58:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-12 08:58:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentythree]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=4</link>
-		<pubDate>Wed, 30 Aug 2023 13:03:53 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=4</link>
+		<pubDate>Tue, 10 Oct 2023 13:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.9800004943804157/?p=4</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.7618089291752530/?p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-30 13:03:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-30 13:03:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:03:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:03:53]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-10-10 13:56:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-10-10 13:56:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-10-10 13:56:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-10 13:56:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -3115,12 +3137,14 @@
 														</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=15</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=15</link>
 		<pubDate>Wed, 12 Apr 2023 09:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=15</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentythree","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
 <main class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--70)"><!-- wp:heading {"level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
 <h1 class="wp-block-heading alignwide" style="margin-bottom:0">inseri core <sup>beta</sup></h1>
 <!-- /wp:heading -->
@@ -3129,7 +3153,7 @@
 <h4 class="wp-block-heading alignwide" style="margin-bottom:var(--wp--preset--spacing--60);text-transform:none">Scientific and Interactive Gutenberg Blocks for WordPress</h4>
 <!-- /wp:heading -->
 
-<!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"wide","layout":{"type":"constrained"}} -->
+<!-- wp:query {"queryId":0,"query":{"perPage":30,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"wide","layout":{"type":"constrained"}} -->
 <div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","layout":{"type":"grid","columnCount":3}} -->
 <!-- wp:post-title {"isLink":true} /-->
 
@@ -3151,14 +3175,56 @@
 
 <!-- wp:spacer {"height":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dspacing\u002d\u002d60)"} -->
 <div style="height:var(--wp--preset--spacing--60)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></main>
-<!-- /wp:group -->]]></content:encoded>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="line-height:1.2">Do you need help?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://inseri.swiss/?page_id=50">Get in Touch</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="line-height:1.2">Do you want to experiment?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":75} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-75"><a class="wp-block-button__link wp-element-button" href="https://inseri.swiss/playground">Try inseri Playground</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"width":75,"fontSize":"small"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-75 has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://wordpress.org/plugins/inseri-core/" target="_blank" rel="noreferrer noopener">Get inseri core</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:tag-cloud {"showTagCounts":true,"smallestFontSize":"10pt","largestFontSize":"16pt"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentythree","tagName":"footer"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or a custom page defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the front page.]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 09:23:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 09:23:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:08:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:08:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-12 09:23:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-12 09:23:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3176,7 +3242,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Post Meta]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=34</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=34</link>
 		<pubDate>Thu, 13 Apr 2023 15:00:29 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/04/post-meta/</guid>
@@ -3252,7 +3318,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Single]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=35</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=35</link>
 		<pubDate>Thu, 13 Apr 2023 15:00:29 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/04/single/</guid>
@@ -3296,33 +3362,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=126</link>
-		<pubDate>Wed, 14 Dec 2022 13:47:47 +0000</pubDate>
-		<dc:creator><![CDATA[5050152]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/?p=126</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"styles":[],"settings":[],"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>126</wp:post_id>
-		<wp:post_date><![CDATA[2022-12-14 13:47:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-12-14 13:47:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-14 13:47:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-14 13:47:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentytwo]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentytwo"><![CDATA[twentytwentytwo]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=292</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=292</link>
 		<pubDate>Tue, 28 Feb 2023 15:50:52 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=292</guid>
@@ -3405,7 +3446,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Single]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=304</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=304</link>
 		<pubDate>Tue, 28 Feb 2023 16:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=304</guid>
@@ -3454,7 +3495,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=395</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=395</link>
 		<pubDate>Mon, 20 Mar 2023 17:21:01 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=395</guid>
@@ -3523,7 +3564,7 @@
 							</item>
 					<item>
 		<title><![CDATA[secondary-menu]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=433</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=433</link>
 		<pubDate>Thu, 30 Mar 2023 04:37:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=433</guid>
@@ -3555,7 +3596,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=467</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=467</link>
 		<pubDate>Tue, 11 Apr 2023 09:30:28 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=467</guid>
@@ -3601,7 +3642,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=502</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=502</link>
 		<pubDate>Tue, 11 Apr 2023 10:26:24 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=502</guid>
@@ -3660,7 +3701,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Post Meta]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=528</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=528</link>
 		<pubDate>Wed, 12 Apr 2023 17:40:06 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/2023/04/post-meta/</guid>
@@ -3740,7 +3781,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Page/Post Full Width]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=996</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=996</link>
 		<pubDate>Fri, 16 Jun 2023 14:49:14 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/06/wp-custom-template-blank-full-width/</guid>
@@ -3774,40 +3815,15 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=1103</link>
-		<pubDate>Wed, 12 Apr 2023 08:58:13 +0000</pubDate>
-		<dc:creator><![CDATA[5050152]]></dc:creator>
-		<guid isPermaLink="false">https://inseri.swiss/?p=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"styles":{"elements":{"button":{"color":{"background":"var:preset|color|custom-color-1"}}}},"settings":{"color":{"palette":{"custom":[{"color":"#ffc400","name":"Color 1","slug":"custom-color-1"}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1103</wp:post_id>
-		<wp:post_date><![CDATA[2023-04-12 08:58:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-04-12 08:58:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-12 08:58:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-12 08:58:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-twentytwentythree]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=1128</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=1151</link>
 		<pubDate>Wed, 12 Apr 2023 09:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Description","type":"page","id":19,"url":"https://inseri.swiss/?page_id=19","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1128</wp:post_id>
+		<wp:post_id>1151</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 09:06:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 09:06:17]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2023-04-12 09:06:17]]></wp:post_modified>
@@ -3824,7 +3840,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://playground.wordpress.net/scope:0.9800004943804157/?p=1129</link>
+		<link>https://playground.wordpress.net/scope:0.7618089291752530/?p=1152</link>
 		<pubDate>Wed, 12 Apr 2023 09:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=9</guid>
@@ -3837,15 +3853,23 @@
 <!-- wp:site-title /--></div>
 <!-- /wp:group -->
 
-<!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search..","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true} /--></div>
+<!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search..","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true} /-->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":100,"fontSize":"small"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://wordpress.org/plugins/inseri-core/" target="_blank" rel="noreferrer noopener">Get inseri core</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:navigation {"ref":433,"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1129</wp:post_id>
+		<wp:post_id>1152</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 09:06:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 09:06:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-30 13:08:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-30 13:08:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-12 09:06:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-12 09:06:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
