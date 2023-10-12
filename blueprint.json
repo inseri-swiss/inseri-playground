@@ -27,6 +27,13 @@
         "resource": "url",
         "url": "https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/inseriswiss.WordPress.xml"
       }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php'; add_filter( 'wp_title', 'title_you_want',10);
+      function title_you_want(){
+         return "my custom title";
+      } ?>"
     }
   ]
 }
