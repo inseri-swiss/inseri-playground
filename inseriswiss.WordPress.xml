@@ -3180,7 +3180,7 @@
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
 <main class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--70)"><!-- wp:heading {"level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
-<h1 class="wp-block-heading alignwide" style="margin-bottom:0">inseri core <sup>beta</sup></h1>
+<h1 class="wp-block-heading alignwide" style="margin-bottom:0">Playground - inseri core <sup>beta</sup></h1>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":4,"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|60"}},"typography":{"textTransform":"none"}}} -->
