@@ -1,9 +1,8 @@
 # inseri Playground
 
-inseri Playground relies on [WordPress Playground](https://github.com/WordPress/wordpress-playground) to provide a playground where the users can test [inseri core for WordPress](https://github.com/inseri-swiss/inseri-core-wp).
+[inseri Playground](https://inseri.swiss/playground/) relies on [WordPress Playground](https://github.com/WordPress/wordpress-playground) to provide a playground where the users can test [inseri core for WordPress](https://github.com/inseri-swiss/inseri-core-wp).
 
-`blueprint.json` is used for the configuration:
-
+[Start inseri Playground](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/blueprint.json) is using the [`blueprint.json`](blueprint.json), i.e.:  
 https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/blueprint.json
 
 ## How to generate `inseriswiss.WordPress.xml`
