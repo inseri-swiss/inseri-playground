@@ -22,9 +22,9 @@
       }
     },
     {
-      "step": "importWordPressFilesStep",
-      "wordPressFilesZip": {
-        "resource": "fetch",
+      "step": "importFile",
+      "file": {
+        "resource": "url",
         "url": "https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/inseri-playground.zip"
       }
     }
