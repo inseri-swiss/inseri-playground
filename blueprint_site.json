@@ -1,6 +1,6 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-  "preferredVersions": { "php": "8.2", "wp": "6.3" },
+  "preferredVersions": { "php": "8.2", "wp": "6.5" },
   "steps": [
     { "step": "login", "username": "admin", "password": "password" },
     {
@@ -15,10 +15,10 @@
       }
     },
     {
-      "step": "ReplaceSiteStep",
-      "fullSiteZip": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/inseri-swiss/inseri-playground/feat/replace_site_step/inseri-playground.zip"
+      "step": "importWordPressFilesStep",
+      "wordPressFilesZip": {
+        "resource": "fetch",
+        "url": "https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/inseri-playground.zip"
       }
     }
   ]
