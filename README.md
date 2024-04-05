@@ -8,7 +8,7 @@ https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.co
 ## How to generate `inseriswiss.WordPress.xml`
 
 1. Export all content from https://inseri.swiss/ -> Tools -> Export
-2. Open an empty playground with the same wp and php version and theme https://playground.wordpress.net/?theme=twentytwentythree&wp=6.4&php=8.2
+2. Open an empty playground with the same wp and php version and theme https://playground.wordpress.net/?theme=twentytwentythree&wp=6.5&php=8.2
 3. Remove all Posts and Pages
 4. Tools -> Import the exported xml from step 1.
 5. Remove all Posts and Pages: draft and private pages and posts
