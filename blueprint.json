@@ -22,7 +22,7 @@
       }
     },
     {
-      "step": "ImportWxrStep",
+      "step": "importFile",
       "file": {
         "resource": "url",
         "url": "https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/inseriswiss.WordPress.xml"
