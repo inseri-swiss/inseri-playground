@@ -11,7 +11,14 @@
       "step": "installPlugin",
       "pluginZipFile": {
         "resource": "wordpress.org/plugins",
-        "slug": "sqlite-database-integration"
+        "slug": "inseri-core"
+      }
+    },
+    {
+      "step": "installTheme",
+      "themeZipFile": {
+        "resource": "wordpress.org/themes",
+        "slug": "twentytwentythree"
       }
     },
     {
