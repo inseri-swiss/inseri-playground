@@ -1,6 +1,8 @@
 # Issue Report
 
-The contetn is generated using https://playground.wordpress.net/?theme=twentytwentythree&wp=6.5&php=8.2&plugin=wordpress-importer&plugin=inseri-core where a new post is created. The post is exported in the [issue.xml](issue.xml).
+see https://github.com/WordPress/wordpress-playground/issues/1211
+
+The content is generated using https://playground.wordpress.net/?theme=twentytwentythree&wp=6.5&php=8.2&plugin=wordpress-importer&plugin=inseri-core where a new post is created. The post is exported in the [issue.xml](issue.xml).
 
 issue report:
 
