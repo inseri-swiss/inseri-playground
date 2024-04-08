@@ -14,7 +14,6 @@ issue report:
 ## Issue in Query API `import-wxr`
 
 1. Try the xml: https://playground.wordpress.net/?theme=twentytwentythree&wp=6.5&php=8.2&plugin=wordpress-importer&plugin=inseri-core&import-wxr=https://raw.githubusercontent.com/inseri-swiss/inseri-playground/main/issue/issue.xml
-2. Select the Issue post. You can notice that the block is loading. In edit mode you can try to recover the content which looks like "u0022#test".
+2. Select the Issue post. You can notice that the block "is loading..." . In edit mode you can try to Attempt Block Recovery. The content looks like "u0022#testu0022".
 
 The issue is present also in the blueprint.
-Importing the site and loading it works as expected.
