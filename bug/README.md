@@ -8,7 +8,7 @@ Bug report:
 
 1. Download [bug.xml](bug.xml)
 2. Open https://playground.wordpress.net/?theme=twentytwentythree&wp=6.5&php=8.2&plugin=wordpress-importer&plugin=inseri-core
-3. go Tools -> Import -> Run Importer -> WordPress Run Importer -> Select the [bug.xml](bug.xml) file downloaded previously
+3. Admin UI: Tools -> Import -> Run Importer -> WordPress Run Importer -> Select the [bug.xml](bug.xml) file downloaded previously
 4. Check the Bug post and notice the "#Bug" content
 
 ## Bug in Query API `import-wxr`
