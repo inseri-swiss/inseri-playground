@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.1" created="2024-08-29 15:11" -->
+	<!-- generator="WordPress/6.6.1" created="2024-08-31 04:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:0.3269496754789591</link>
+	<link>https://playground.wordpress.net/scope:0.8811208085422926</link>
 	<description></description>
-	<pubDate>Thu, 29 Aug 2024 15:11:26 +0000</pubDate>
+	<pubDate>Sat, 31 Aug 2024 04:57:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:0.3269496754789591</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:0.3269496754789591</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:0.8811208085422926</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:0.8811208085422926</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[5050152]]></wp:author_login><wp:author_email><![CDATA[andrei.plamada@uzh.ch]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Andrei]]></wp:author_first_name><wp:author_last_name><![CDATA[Plamada]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -383,7 +383,7 @@
 
 		<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=3</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=3</link>
 		<pubDate>Wed, 12 Apr 2023 06:00:52 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=3</guid>
@@ -513,18 +513,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=10</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:28 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=10</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=10</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -570,18 +570,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=11</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:28 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=11</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=11</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -627,18 +627,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=12</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:28 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=12</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=12</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -684,18 +684,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=13</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:28 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=13</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=13</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -741,7 +741,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Get in Touch]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=50</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=50</link>
 		<pubDate>Wed, 23 Nov 2022 16:27:39 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?page_id=13</guid>
@@ -855,18 +855,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Email]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=51</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:28 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=51</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=51</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:28]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email]]></wp:post_name>
@@ -912,7 +912,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Showcase]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=483</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=483</link>
 		<pubDate>Fri, 16 Dec 2022 14:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://zi.whptest.uzh.ch/whp/science-it/inseri.swiss-demo/?page_id=92</guid>
@@ -1014,18 +1014,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=484</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:29 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=484</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=484</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=484</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>484</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook-2]]></wp:post_name>
@@ -1071,18 +1071,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=485</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:29 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=485</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=485</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=485</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>485</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter-2]]></wp:post_name>
@@ -1128,18 +1128,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=486</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:29 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=486</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=486</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=486</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>486</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -1185,18 +1185,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=487</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:29 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=487</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=487</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=487</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>487</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[487]]></wp:post_name>
@@ -1242,18 +1242,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=488</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:29 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=488</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=488</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=488</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>488</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram-2]]></wp:post_name>
@@ -1299,18 +1299,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Email]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=489</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:29 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=489</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=489</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=489</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>489</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:29]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:54:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email-2]]></wp:post_name>
@@ -1356,7 +1356,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Try out]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=700</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=700</link>
 		<pubDate>Sun, 16 Apr 2023 20:09:19 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=700</guid>
@@ -1442,7 +1442,7 @@
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=703</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=703</link>
 		<pubDate>Sun, 16 Apr 2023 20:09:57 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=703</guid>
@@ -1630,7 +1630,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Documentation]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=706</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=706</link>
 		<pubDate>Sun, 16 Apr 2023 20:10:15 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=706</guid>
@@ -1664,7 +1664,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Impressum]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=771</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=771</link>
 		<pubDate>Tue, 18 Apr 2023 07:28:20 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=771</guid>
@@ -1702,7 +1702,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Playground]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?page_id=1102</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?page_id=1102</link>
 		<pubDate>Fri, 25 Aug 2023 07:09:29 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=1102</guid>
@@ -1766,21 +1766,21 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1701</link>
-		<pubDate>Thu, 29 Aug 2024 15:09:31 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1717</link>
+		<pubDate>Sat, 31 Aug 2024 04:54:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=1701</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=1717</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1701</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:09:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:09:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:09:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:09:31]]></wp:post_modified_gmt>
+		<wp:post_id>1717</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-31 04:54:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:54:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:54:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:54:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1701]]></wp:post_name>
+		<wp:post_name><![CDATA[1717]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -1823,7 +1823,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Dropdown Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=266</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=266</link>
 		<pubDate>Wed, 14 Dec 2022 10:06:39 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=266</guid>
@@ -1935,7 +1935,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Web API Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=272</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=272</link>
 		<pubDate>Thu, 05 Jan 2023 13:17:21 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=272</guid>
@@ -2017,7 +2017,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Media Collection and Image Box Blocks]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=275</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=275</link>
 		<pubDate>Tue, 10 Jan 2023 13:22:36 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=275</guid>
@@ -2123,7 +2123,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python Code Block using Pyodide]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=277</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=277</link>
 		<pubDate>Mon, 27 Feb 2023 08:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=277</guid>
@@ -2231,7 +2231,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Hello World]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=295</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=295</link>
 		<pubDate>Tue, 28 Feb 2023 14:57:41 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=295</guid>
@@ -2327,7 +2327,7 @@
 							</item>
 					<item>
 		<title><![CDATA[HTML Code Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=352</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=352</link>
 		<pubDate>Tue, 07 Mar 2023 14:50:41 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=352</guid>
@@ -2406,7 +2406,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Plotly Chart Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=360</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=360</link>
 		<pubDate>Sun, 12 Mar 2023 13:53:16 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=360</guid>
@@ -2489,7 +2489,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Local File Import Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=411</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=411</link>
 		<pubDate>Mon, 27 Mar 2023 06:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=411</guid>
@@ -2562,7 +2562,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Zenodo Repository Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=446</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=446</link>
 		<pubDate>Mon, 17 Apr 2023 14:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=446</guid>
@@ -2639,7 +2639,7 @@
 							</item>
 					<item>
 		<title><![CDATA[inseri.swiss meets WordPress]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=499</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=499</link>
 		<pubDate>Thu, 01 Sep 2022 08:22:21 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=499</guid>
@@ -2698,7 +2698,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Text Editor and Text Viewer Blocks]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=558</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=558</link>
 		<pubDate>Wed, 14 Dec 2022 08:10:00 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=558</guid>
@@ -2775,7 +2775,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Download Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=608</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=608</link>
 		<pubDate>Mon, 27 Mar 2023 08:10:18 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=608</guid>
@@ -2860,7 +2860,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Plotly]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=881</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=881</link>
 		<pubDate>Mon, 05 Jun 2023 14:32:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=881</guid>
@@ -2927,7 +2927,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Word Count]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=936</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=936</link>
 		<pubDate>Mon, 22 May 2023 08:35:04 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=936</guid>
@@ -3007,7 +3007,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Matplotlib]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=968</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=968</link>
 		<pubDate>Mon, 05 Jun 2023 15:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=968</guid>
@@ -3074,7 +3074,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Requests Package]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1127</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1127</link>
 		<pubDate>Wed, 30 Aug 2023 10:43:11 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1127</guid>
@@ -3178,7 +3178,7 @@
 							</item>
 					<item>
 		<title><![CDATA[IIIF Viewer Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1208</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1208</link>
 		<pubDate>Thu, 19 Oct 2023 07:35:59 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1208</guid>
@@ -3227,7 +3227,7 @@
 						</item>
 					<item>
 		<title><![CDATA[DSS_Embrace]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1227</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1227</link>
 		<pubDate>Fri, 15 Dec 2023 15:43:19 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1227</guid>
@@ -3446,7 +3446,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Cytoscape Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1252</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1252</link>
 		<pubDate>Mon, 27 Nov 2023 07:01:02 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1252</guid>
@@ -3524,7 +3524,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Data Mapping with Python]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1422</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1422</link>
 		<pubDate>Wed, 01 Mar 2023 06:57:28 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1422</guid>
@@ -3599,18 +3599,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=4</link>
-		<pubDate>Thu, 29 Aug 2024 15:08:25 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=4</link>
+		<pubDate>Sat, 31 Aug 2024 04:53:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.3269496754789591/?p=4</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8811208085422926/?p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-29 15:08:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-29 15:08:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:08:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:08:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-08-31 04:53:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 04:53:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:53:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:53:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -3623,7 +3623,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=8</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=8</link>
 		<pubDate>Wed, 12 Apr 2023 09:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=8</guid>
@@ -3647,7 +3647,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=15</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=15</link>
 		<pubDate>Wed, 12 Apr 2023 09:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=15</guid>
@@ -3733,8 +3733,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 09:23:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 09:23:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:11:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:11:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:56:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:56:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3752,7 +3752,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Single]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=35</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=35</link>
 		<pubDate>Thu, 13 Apr 2023 15:00:29 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/04/single/</guid>
@@ -3797,7 +3797,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=126</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=126</link>
 		<pubDate>Wed, 14 Dec 2022 13:47:47 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=126</guid>
@@ -3822,7 +3822,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=292</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=292</link>
 		<pubDate>Tue, 28 Feb 2023 15:50:52 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=292</guid>
@@ -3905,7 +3905,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Single]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=304</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=304</link>
 		<pubDate>Tue, 28 Feb 2023 16:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=304</guid>
@@ -3954,7 +3954,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=395</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=395</link>
 		<pubDate>Mon, 20 Mar 2023 17:21:01 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=395</guid>
@@ -4023,7 +4023,7 @@
 							</item>
 					<item>
 		<title><![CDATA[secondary-menu]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=433</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=433</link>
 		<pubDate>Thu, 30 Mar 2023 04:37:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=433</guid>
@@ -4054,54 +4054,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Header]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=467</link>
-		<pubDate>Tue, 11 Apr 2023 09:30:28 +0000</pubDate>
-		<dc:creator><![CDATA[5050152]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/?p=467</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"flex","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide" style="padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:site-logo {"width":44} /-->
-
-<!-- wp:site-title {"level":0} /--></div>
-<!-- /wp:group -->
-
-<!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search...","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true} /-->
-
-<!-- wp:navigation {"ref":433,"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>467</wp:post_id>
-		<wp:post_date><![CDATA[2023-04-11 09:30:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-04-11 09:30:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-11 09:30:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-11 09:30:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[header-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
-		<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=647</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=647</link>
 		<pubDate>Wed, 23 Nov 2022 15:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=5</guid>
@@ -4125,43 +4079,8 @@
 										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Page/Post Full Width]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=996</link>
-		<pubDate>Fri, 16 Jun 2023 14:49:14 +0000</pubDate>
-		<dc:creator><![CDATA[5050152]]></dc:creator>
-		<guid isPermaLink="false">https://inseri.swiss/2023/06/wp-custom-template-blank-full-width/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentythree","tagName":"header"} /-->
-
-<!-- wp:post-title /-->
-
-<!-- wp:post-content /-->
-
-<!-- wp:template-part {"slug":"footer","theme":"twentytwentythree","tagName":"footer"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>996</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-16 16:49:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-06-16 14:49:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-16 16:49:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-16 14:49:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-custom-template-blank-full-width]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1222</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1222</link>
 		<pubDate>Wed, 08 Nov 2023 12:11:48 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/11/wp-global-styles-twentytwentyfour/</guid>
@@ -4186,7 +4105,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Slider Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1375</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1375</link>
 		<pubDate>Thu, 29 Feb 2024 07:38:30 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1375</guid>
@@ -4281,7 +4200,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Data Table Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1378</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1378</link>
 		<pubDate>Thu, 29 Feb 2024 07:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1378</guid>
@@ -4359,7 +4278,7 @@
 							</item>
 					<item>
 		<title><![CDATA[JavaScript Code Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1449</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1449</link>
 		<pubDate>Wed, 03 Apr 2024 12:57:05 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1449</guid>
@@ -4441,7 +4360,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Global Student Visa Cost]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1502</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1502</link>
 		<pubDate>Wed, 22 May 2024 04:58:35 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1502</guid>
@@ -4532,7 +4451,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1628</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1628</link>
 		<pubDate>Wed, 12 Apr 2023 08:58:13 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=5</guid>
@@ -4557,7 +4476,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Export Block]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1682</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1682</link>
 		<pubDate>Wed, 12 Jun 2024 11:23:03 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1682</guid>
@@ -4641,13 +4560,13 @@
 							</item>
 					<item>
 		<title><![CDATA[R Code Block using WebR]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1699</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1699</link>
 		<pubDate>Thu, 29 Aug 2024 13:33:38 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1699</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>The <strong>R Code</strong> block relies on the <a href="https://pyodide.org/en/stable/" target="_blank" rel="noreferrer noopener">WebR</a> project. It allows us to run R Code directly in the browser.</p>
+<p>The <strong>R Code</strong> block relies on the <a href="https://webr.r-wasm.org/" target="_blank" rel="noreferrer noopener">WebR</a> project. It allows us to run R Code directly in the browser.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -4712,8 +4631,124 @@
 		<category domain="post_tag" nicename="text-viewer"><![CDATA[Text Viewer Block]]></category>
 						</item>
 					<item>
+		<title><![CDATA[R and Plotly]]></title>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1710</link>
+		<pubDate>Fri, 30 Aug 2024 09:16:53 +0000</pubDate>
+		<dc:creator><![CDATA[5050152]]></dc:creator>
+		<guid isPermaLink="false">https://inseri.swiss/?p=1710</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In this example we will show you how to integrate our R code for generating Plotly figures into the R Code block and use the Plotly Chart block to display it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For this use case please pay attention at the following points (see the code below):</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>there is no need to use <kbd><code>install.packages</code></kbd> because the missing packages are downloaded by default (see the first line of code below and the docs)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>for converting the Plotly figure to a <strong>JSON</strong> use <code>plotly_json</code> (see line 6)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>save the json as a json file (see line 7)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Now the JSON file is the <strong>output</strong> of our R Code, and used further for the JSON description of the Plotly Chart block.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/r-code {"blockId":"eydnAJtVNn4ig7yPCmyMv","mode":"editor","height":195,"content":"library(plotly)\n\nfig \u003c- plot_ly(x = c(\u0022a\u0022, \u0022b\u0022, \u0022c\u0022), y = c(1, 3, 2))\nfig_as_json \u003c- plotly_json(fig, pretty = FALSE)\ncat(fig_as_json, file = \u0022plotly_json.json\u0022)","metadata":{"name":"r-plotly"}} -->
+<div class="wp-block-inseri-core-r-code" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;eydnAJtVNn4ig7yPCmyMv&quot;,&quot;content&quot;:&quot;library(plotly)\n\nfig <- plot_ly(x = c(\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;), y = c(1, 3, 2))\nfig_as_json <- plotly_json(fig, pretty = FALSE)\ncat(fig_as_json, file = \&quot;plotly_json.json\&quot;)&quot;,&quot;editable&quot;:false,&quot;height&quot;:195,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;r-plotly&quot;},&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[]}">is loading ...</div>
+<!-- /wp:inseri-core/r-code -->
+
+<!-- wp:inseri-core/plotly {"blockId":"ChfmdLtIZWWJJjlR0y3iQ","inputFull":"eydnAJtVNn4ig7yPCmyMv/plotly_json","metadata":{"name":"plotly"}} -->
+<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;ChfmdLtIZWWJJjlR0y3iQ&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:&quot;&quot;,&quot;inputData&quot;:&quot;&quot;,&quot;inputFull&quot;:&quot;eydnAJtVNn4ig7yPCmyMv/plotly_json&quot;,&quot;inputLayout&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;plotly&quot;},&quot;outputs&quot;:[]}">is loading ...</div>
+<!-- /wp:inseri-core/plotly -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1710</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-30 11:16:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-30 09:16:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-30 11:16:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-30 09:16:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[r-and-plotly]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="basic-example"><![CDATA[Basic Example]]></category>
+		<category domain="post_tag" nicename="plotly-chart"><![CDATA[Plotly Chart Block]]></category>
+		<category domain="post_tag" nicename="r-code"><![CDATA[R Code Block]]></category>
+						</item>
+					<item>
+		<title><![CDATA[R and Plotting]]></title>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1715</link>
+		<pubDate>Fri, 30 Aug 2024 12:04:51 +0000</pubDate>
+		<dc:creator><![CDATA[5050152]]></dc:creator>
+		<guid isPermaLink="false">https://inseri.swiss/?p=1715</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In this example we will show you how to integrate our R code for generating plots into the R Code block and use the Image Box block to display it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For this use case please pay attention that we save the image as a PNG file.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The PNG file is the <strong>output</strong> of our R Code block, and used further as an input in the Image Box block.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/r-code {"blockId":"GYRJtLeZ3gBH9u1ud4H1a","mode":"editor","height":106,"content":"png(file=\u0022barplot.png\u0022)\nbarplot(c(1, 3, 2), name.arg = c(\u0022a\u0022, \u0022b\u0022, \u0022c\u0022))\ndev.off()","metadata":{"name":"r-barplot"}} -->
+<div class="wp-block-inseri-core-r-code" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;GYRJtLeZ3gBH9u1ud4H1a&quot;,&quot;content&quot;:&quot;png(file=\&quot;barplot.png\&quot;)\nbarplot(c(1, 3, 2), name.arg = c(\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;))\ndev.off()&quot;,&quot;editable&quot;:false,&quot;height&quot;:106,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;r-barplot&quot;},&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[]}">is loading ...</div>
+<!-- /wp:inseri-core/r-code -->
+
+<!-- wp:inseri-core/image {"blockId":"2HXz38wkfVbu9LXkynrut","inputKey":"GYRJtLeZ3gBH9u1ud4H1a/plot0","metadata":{"name":"image-barplot"}} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;2HXz38wkfVbu9LXkynrut&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:null,&quot;inputKey&quot;:&quot;GYRJtLeZ3gBH9u1ud4H1a/plot0&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;image-barplot&quot;}}">is loading ...</div>
+<!-- /wp:inseri-core/image -->
+
+<!-- wp:paragraph -->
+<p>Next we will use <code>ggplot2</code> to achieve the same goal. There is no need to use <kbd><code>install.packages</code></kbd> because the missing packages are downloaded by default (see the first line of code below and the docs)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/r-code {"blockId":"IkghIiUy6wdrAAldxEzBg","mode":"editor","height":321,"content":"library(ggplot2)\n\n# Create data\ndata \u003c- data.frame(\n  name=c(\u0022a\u0022, \u0022b\u0022, \u0022c\u0022) ,  \n  value=c(1, 3, 2)\n  )\n\n# Barplot\nggplot(data, aes(x=name, y=value)) + \n  geom_bar(stat = \u0022identity\u0022)\n  \nggsave(\u0022ggplot2.png\u0022)","metadata":{"name":"r-ggplot"}} -->
+<div class="wp-block-inseri-core-r-code" data-attributes="{&quot;autoTrigger&quot;:false,&quot;blockId&quot;:&quot;IkghIiUy6wdrAAldxEzBg&quot;,&quot;content&quot;:&quot;library(ggplot2)\n\n# Create data\ndata <- data.frame(\n  name=c(\&quot;a\&quot;, \&quot;b\&quot;, \&quot;c\&quot;) ,  \n  value=c(1, 3, 2)\n  )\n\n# Barplot\nggplot(data, aes(x=name, y=value)) + \n  geom_bar(stat = \&quot;identity\&quot;)\n  \nggsave(\&quot;ggplot2.png\&quot;)&quot;,&quot;editable&quot;:false,&quot;height&quot;:321,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{},&quot;isVisible&quot;:true,&quot;label&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;r-ggplot&quot;},&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[]}">is loading ...</div>
+<!-- /wp:inseri-core/r-code -->
+
+<!-- wp:inseri-core/image {"blockId":"PqC8wco0666fv38XHXktg","inputKey":"IkghIiUy6wdrAAldxEzBg/plot0","metadata":{"name":"image-ggplot"}} -->
+<div class="wp-block-inseri-core-image" data-attributes="{&quot;altText&quot;:&quot;&quot;,&quot;blockId&quot;:&quot;PqC8wco0666fv38XHXktg&quot;,&quot;caption&quot;:&quot;&quot;,&quot;fit&quot;:&quot;contain&quot;,&quot;height&quot;:null,&quot;inputKey&quot;:&quot;IkghIiUy6wdrAAldxEzBg/plot0&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;image-ggplot&quot;}}">is loading ...</div>
+<!-- /wp:inseri-core/image -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1715</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-30 14:04:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-30 12:04:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-08-30 14:04:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-30 12:04:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[r-and-plotting]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="basic-example"><![CDATA[Basic Example]]></category>
+		<category domain="post_tag" nicename="image-box"><![CDATA[Image Box Block]]></category>
+		<category domain="post_tag" nicename="r-code"><![CDATA[R Code Block]]></category>
+						</item>
+					<item>
 		<title><![CDATA[Post Meta]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=34</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=34</link>
 		<pubDate>Thu, 13 Apr 2023 15:00:29 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/04/post-meta/</guid>
@@ -4788,8 +4823,54 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=467</link>
+		<pubDate>Tue, 11 Apr 2023 09:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[5050152]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/?p=467</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"layout":{"type":"flex","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:site-logo {"width":44} /-->
+
+<!-- wp:site-title {"level":0} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search...","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true} /-->
+
+<!-- wp:navigation {"ref":433,"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"right"}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>467</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-11 09:30:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-11 09:30:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-11 09:30:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-11 09:30:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=502</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=502</link>
 		<pubDate>Tue, 11 Apr 2023 10:26:24 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=502</guid>
@@ -4848,7 +4929,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Post Meta]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=528</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=528</link>
 		<pubDate>Wed, 12 Apr 2023 17:40:06 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/2023/04/post-meta/</guid>
@@ -4927,8 +5008,43 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Page/Post Full Width]]></title>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=996</link>
+		<pubDate>Fri, 16 Jun 2023 14:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[5050152]]></dc:creator>
+		<guid isPermaLink="false">https://inseri.swiss/2023/06/wp-custom-template-blank-full-width/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentythree","tagName":"header"} /-->
+
+<!-- wp:post-title /-->
+
+<!-- wp:post-content /-->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentythree","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>996</wp:post_id>
+		<wp:post_date><![CDATA[2023-06-16 16:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-16 14:49:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-06-16 16:49:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-16 14:49:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-custom-template-blank-full-width]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://playground.wordpress.net/scope:0.3269496754789591/?p=1700</link>
+		<link>https://playground.wordpress.net/scope:0.8811208085422926/?p=1716</link>
 		<pubDate>Wed, 12 Apr 2023 09:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[5050152]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=9</guid>
@@ -4951,11 +5067,11 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1700</wp:post_id>
+		<wp:post_id>1716</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 09:06:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 09:06:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-29 15:11:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-29 15:11:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-08-31 04:56:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-08-31 04:56:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
