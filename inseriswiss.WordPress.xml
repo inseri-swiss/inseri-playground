@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-10-08 04:43" -->
+	<!-- generator="WordPress/6.6.2" created="2024-10-18 13:12" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<link>https://playground.wordpress.net/scope:humble-busy-mountain</link>
+	<link>https://playground.wordpress.net/scope:excited-chic-state</link>
 	<description></description>
-	<pubDate>Tue, 08 Oct 2024 04:43:12 +0000</pubDate>
+	<pubDate>Fri, 18 Oct 2024 13:12:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.wordpress.net/scope:humble-busy-mountain</wp:base_site_url>
-	<wp:base_blog_url>https://playground.wordpress.net/scope:humble-busy-mountain</wp:base_blog_url>
+	<wp:base_site_url>https://playground.wordpress.net/scope:excited-chic-state</wp:base_site_url>
+	<wp:base_blog_url>https://playground.wordpress.net/scope:excited-chic-state</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -133,26 +133,31 @@
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>19</wp:term_id>
+		<wp:tag_slug><![CDATA[share]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Share Block]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>20</wp:term_id>
 		<wp:tag_slug><![CDATA[slider]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Slider Block]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>20</wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:tag_slug><![CDATA[text-editor]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Text Editor Block]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>21</wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:tag_slug><![CDATA[text-viewer]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Text Viewer Block]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>22</wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:tag_slug><![CDATA[web-api]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Web API Block]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>23</wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:tag_slug><![CDATA[zenodo-repository]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Zenodo Repository Block]]></wp:tag_name>
 	</wp:tag>
@@ -199,14 +204,14 @@
 		<wp:term_name><![CDATA[Export Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>24</wp:term_id>
+		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>25</wp:term_id>
+		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[header]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -269,7 +274,7 @@
 		<wp:term_name><![CDATA[Plotly Chart Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>26</wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -290,11 +295,18 @@
 		<wp:term_name><![CDATA[R Code Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>27</wp:term_id>
+		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Secondary menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[share]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Share Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>4</wp:term_id>
@@ -304,42 +316,42 @@
 		<wp:term_name><![CDATA[Showcase]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>19</wp:term_id>
+		<wp:term_id>20</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[slider]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Slider Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>20</wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[text-editor]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Text Editor Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>21</wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[text-viewer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Text Viewer Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>28</wp:term_id>
+		<wp:term_id>29</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwentyfour]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[twentytwentyfour]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>29</wp:term_id>
+		<wp:term_id>30</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwentythree]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[twentytwentythree]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>30</wp:term_id>
+		<wp:term_id>31</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwentytwo]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -353,36 +365,36 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>31</wp:term_id>
+		<wp:term_id>32</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>22</wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[web-api]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Web API Block]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>23</wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[zenodo-repository]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Zenodo Repository Block]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary menu]]></wp:term_name>
+			<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug><wp:term_name><![CDATA[Secondary menu]]></wp:term_name>
+	<wp:term><wp:term_id>28</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug><wp:term_name><![CDATA[Secondary menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 		<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=3</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/privacy-policy/</link>
 		<pubDate>Wed, 12 Apr 2023 06:00:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=3</guid>
@@ -512,18 +524,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=10</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/facebook/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=10</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -569,18 +581,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=11</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/twitter/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=11</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -626,18 +638,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=12</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/home/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=12</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -683,18 +695,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=13</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/instagram/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=13</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/instagram/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -740,7 +752,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Get in Touch]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=50</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/get-in-touch/</link>
 		<pubDate>Wed, 23 Nov 2022 16:27:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?page_id=13</guid>
@@ -854,18 +866,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Email]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=51</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/email/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=51</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/email/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email]]></wp:post_name>
@@ -911,7 +923,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Showcase]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=483</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/showcase/</link>
 		<pubDate>Fri, 16 Dec 2022 14:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://zi.whptest.uzh.ch/whp/science-it/inseri.swiss-demo/?page_id=92</guid>
@@ -1013,18 +1025,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=559</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/facebook-2/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=559</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/facebook-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>559</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook-2]]></wp:post_name>
@@ -1070,18 +1082,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=560</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/twitter-2/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=560</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/twitter-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>560</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter-2]]></wp:post_name>
@@ -1127,18 +1139,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=561</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/home-2/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=561</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/home-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>561</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -1184,18 +1196,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=562</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/562/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=562</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>562</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[562]]></wp:post_name>
@@ -1241,18 +1253,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=563</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/instagram-2/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=563</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/instagram-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>563</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram-2]]></wp:post_name>
@@ -1298,18 +1310,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Email]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=564</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:52 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/email-2/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=564</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/email-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>564</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:52]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:11:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email-2]]></wp:post_name>
@@ -1355,7 +1367,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Try out]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=700</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/try-out/</link>
 		<pubDate>Sun, 16 Apr 2023 20:09:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=700</guid>
@@ -1441,7 +1453,7 @@
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=703</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/about/</link>
 		<pubDate>Sun, 16 Apr 2023 20:09:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=703</guid>
@@ -1588,7 +1600,11 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>✅&nbsp;Open and Citable content. Persistent Identifier and Long Term Storage via a data repository (e.g., <a href="https://zenodo.org/" target="_blank" rel="noreferrer noopener">Zenodo</a>)</li>
+<li>✅&nbsp;Open and Citable content (see <a href="https://docs.inseri.swiss/features/open_citable/" target="_blank" rel="noreferrer noopener">here</a>). Persistent Identifier and Long Term Storage via a data repository (e.g., <a href="https://zenodo.org/" target="_blank" rel="noreferrer noopener">Zenodo</a>)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>✅ Restore state (see <a href="https://inseri.swiss/2024/10/share-block/">Share</a> block) to share and reproduce a given selection.</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
@@ -1604,7 +1620,11 @@
 <h2 class="wp-block-heading" id="roadmap">News</h2>
 <!-- /wp:heading -->
 
-<!-- wp:rss {"blockLayout":"grid","feedURL":"http://inseri.swiss","itemsToShow":6,"displayDate":true} /-->]]></content:encoded>
+<!-- wp:rss {"columns":3,"blockLayout":"grid","feedURL":"http://inseri.swiss","itemsToShow":9,"displayDate":true} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>703</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-16 22:09:57]]></wp:post_date>
@@ -1635,7 +1655,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Documentation]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=706</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/documentation/</link>
 		<pubDate>Sun, 16 Apr 2023 20:10:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=706</guid>
@@ -1669,7 +1689,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Impressum]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=771</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/impressum/</link>
 		<pubDate>Tue, 18 Apr 2023 07:28:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=771</guid>
@@ -1707,7 +1727,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Playground]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?page_id=1102</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/playground/</link>
 		<pubDate>Fri, 25 Aug 2023 07:09:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?page_id=1102</guid>
@@ -1771,21 +1791,21 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1813</link>
-		<pubDate>Tue, 08 Oct 2024 04:40:54 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/1848/</link>
+		<pubDate>Fri, 18 Oct 2024 13:11:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=1813</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/1848/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1813</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:40:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:40:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:40:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:40:54]]></wp:post_modified_gmt>
+		<wp:post_id>1848</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-18 13:11:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:11:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:11:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:11:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1813]]></wp:post_name>
+		<wp:post_name><![CDATA[1848]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -1828,7 +1848,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Dropdown Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=266</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2022/12/14/dropdown-block/</link>
 		<pubDate>Wed, 14 Dec 2022 10:06:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=266</guid>
@@ -1940,7 +1960,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Web API Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=272</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/01/05/web-api-block/</link>
 		<pubDate>Thu, 05 Jan 2023 13:17:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=272</guid>
@@ -2022,7 +2042,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Media Collection and Image Box Blocks]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=275</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/01/10/media-collection-and-image-box-blocks/</link>
 		<pubDate>Tue, 10 Jan 2023 13:22:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=275</guid>
@@ -2128,7 +2148,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python Code Block using Pyodide]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=277</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/02/27/python-code-block-using-pyodide/</link>
 		<pubDate>Mon, 27 Feb 2023 08:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=277</guid>
@@ -2236,7 +2256,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Hello World]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=295</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/02/28/hello-world/</link>
 		<pubDate>Tue, 28 Feb 2023 14:57:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=295</guid>
@@ -2332,7 +2352,7 @@
 							</item>
 					<item>
 		<title><![CDATA[HTML Code Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=352</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/07/html-code-block/</link>
 		<pubDate>Tue, 07 Mar 2023 14:50:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=352</guid>
@@ -2411,7 +2431,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Plotly Chart Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=360</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/12/plotly-chart-block/</link>
 		<pubDate>Sun, 12 Mar 2023 13:53:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=360</guid>
@@ -2494,7 +2514,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Local File Import Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=411</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/27/local-file-import-block/</link>
 		<pubDate>Mon, 27 Mar 2023 06:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=411</guid>
@@ -2567,7 +2587,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Zenodo Repository Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=446</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/17/zenodo-repository-block/</link>
 		<pubDate>Mon, 17 Apr 2023 14:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=446</guid>
@@ -2644,7 +2664,7 @@
 							</item>
 					<item>
 		<title><![CDATA[inseri.swiss meets WordPress]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=499</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2022/09/01/inseri-swiss-meets-wordpress/</link>
 		<pubDate>Thu, 01 Sep 2022 08:22:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=499</guid>
@@ -2703,7 +2723,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Text Editor and Text Viewer Blocks]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=558</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2022/12/14/text-editor-and-text-viewer-blocks/</link>
 		<pubDate>Wed, 14 Dec 2022 08:10:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=558</guid>
@@ -2780,7 +2800,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Download Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=608</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/27/download-block/</link>
 		<pubDate>Mon, 27 Mar 2023 08:10:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=608</guid>
@@ -2865,7 +2885,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Plotly]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=881</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/06/05/python-and-plotly/</link>
 		<pubDate>Mon, 05 Jun 2023 14:32:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=881</guid>
@@ -2932,7 +2952,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Word Count]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=936</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/05/22/word-count/</link>
 		<pubDate>Mon, 22 May 2023 08:35:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=936</guid>
@@ -3012,7 +3032,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Matplotlib]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=968</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/06/05/python-and-matplotlib/</link>
 		<pubDate>Mon, 05 Jun 2023 15:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=968</guid>
@@ -3083,7 +3103,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Python and Requests Package]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1127</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/08/30/python-and-requests/</link>
 		<pubDate>Wed, 30 Aug 2023 10:43:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1127</guid>
@@ -3141,7 +3161,7 @@
 							</item>
 					<item>
 		<title><![CDATA[IIIF Viewer Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1208</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/10/19/iiif-viewer-block/</link>
 		<pubDate>Thu, 19 Oct 2023 07:35:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1208</guid>
@@ -3190,7 +3210,7 @@
 						</item>
 					<item>
 		<title><![CDATA[DSS_Embrace]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1227</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/12/15/dss_embrace/</link>
 		<pubDate>Fri, 15 Dec 2023 15:43:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1227</guid>
@@ -3409,7 +3429,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Cytoscape Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1252</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/11/27/cytoscape-block/</link>
 		<pubDate>Mon, 27 Nov 2023 07:01:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1252</guid>
@@ -3487,7 +3507,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Data Mapping with Python]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1422</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/01/data-mapping-with-python/</link>
 		<pubDate>Wed, 01 Mar 2023 06:57:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1422</guid>
@@ -3562,18 +3582,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=4</link>
-		<pubDate>Tue, 08 Oct 2024 04:39:20 +0000</pubDate>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/navigation/</link>
+		<pubDate>Fri, 18 Oct 2024 13:10:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://playground.wordpress.net/scope:humble-busy-mountain/?p=4</guid>
+		<guid isPermaLink="false">https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-08 04:39:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-08 04:39:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:39:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:39:20]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-10-18 13:10:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 13:10:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:10:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:10:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -3586,7 +3606,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=8</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/12/navigation-2/</link>
 		<pubDate>Wed, 12 Apr 2023 09:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=8</guid>
@@ -3609,113 +3629,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=15</link>
-		<pubDate>Wed, 12 Apr 2023 09:23:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://inseri.swiss/?p=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
-<main class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--70)"><!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search..","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true} /-->
-
-<!-- wp:heading {"level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
-<h1 class="wp-block-heading alignwide" style="margin-bottom:0">Playground - inseri core <sup>beta</sup></h1>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":4,"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|60"}},"typography":{"textTransform":"none"}}} -->
-<h4 class="wp-block-heading alignwide" style="margin-bottom:var(--wp--preset--spacing--60);text-transform:none">Scientific and Interactive Gutenberg Blocks for WordPress</h4>
-<!-- /wp:heading -->
-
-<!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","layout":{"type":"grid","columnCount":3}} -->
-<!-- wp:post-title {"isLink":true} /-->
-
-<!-- wp:post-excerpt /-->
-
-<!-- wp:post-date {"format":"F Y","isLink":true} /-->
-
-<!-- wp:spacer {"height":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dspacing\u002d\u002d40)"} -->
-<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-<!-- /wp:post-template -->
-
-<!-- wp:query-pagination {"paginationArrow":"arrow","align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
-<!-- wp:query-pagination-previous {"label":"Newer Posts"} /-->
-
-<!-- wp:query-pagination-next {"label":"Older Posts"} /-->
-<!-- /wp:query-pagination --></div>
-<!-- /wp:query -->
-
-<!-- wp:spacer {"height":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dspacing\u002d\u002d60)"} -->
-<div style="height:var(--wp--preset--spacing--60)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
-<p class="has-large-font-size" style="line-height:1.2">Do you need help?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"fontSize":"small"} -->
-<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://inseri.swiss/?page_id=50">Get in Touch</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
-<p class="has-large-font-size" style="line-height:1.2">Do you want to experiment?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"width":75} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-75"><a class="wp-block-button__link wp-element-button" href="https://inseri.swiss/playground">Try inseri Playground</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"width":75,"fontSize":"small"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-75 has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://wordpress.org/plugins/inseri-core/" target="_blank" rel="noreferrer noopener">Get inseri core</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:tag-cloud {"showTagCounts":true,"smallestFontSize":"10pt","largestFontSize":"16pt"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></main>
-<!-- /wp:group -->
-
-<!-- wp:template-part {"slug":"footer","theme":"twentytwentythree","tagName":"footer"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or a custom page defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the front page.]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2023-04-12 09:23:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-04-12 09:23:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:42:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:42:55]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=126</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2022/12/14/wp-global-styles-twentytwentytwo/</link>
 		<pubDate>Wed, 14 Dec 2022 13:47:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=126</guid>
@@ -3740,7 +3655,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=292</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/02/28/home-2/</link>
 		<pubDate>Tue, 28 Feb 2023 15:50:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=292</guid>
@@ -3823,7 +3738,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Single]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=304</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/02/28/single-2/</link>
 		<pubDate>Tue, 28 Feb 2023 16:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=304</guid>
@@ -3872,7 +3787,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=395</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/20/home-3/</link>
 		<pubDate>Mon, 20 Mar 2023 17:21:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=395</guid>
@@ -3941,7 +3856,7 @@
 							</item>
 					<item>
 		<title><![CDATA[secondary-menu]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=433</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/03/30/secondary-menu/</link>
 		<pubDate>Thu, 30 Mar 2023 04:37:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=433</guid>
@@ -3973,7 +3888,7 @@
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=647</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2022/11/23/wp-global-styles-twentytwentythree-2/</link>
 		<pubDate>Wed, 23 Nov 2022 15:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=5</guid>
@@ -3998,7 +3913,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1222</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/11/08/wp-global-styles-twentytwentyfour/</link>
 		<pubDate>Wed, 08 Nov 2023 12:11:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/11/wp-global-styles-twentytwentyfour/</guid>
@@ -4023,7 +3938,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Showcase Aretius-Workshop, Bern University]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1343</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/05/06/showcase-aretius-workshop-unibe/</link>
 		<pubDate>Mon, 06 May 2024 14:59:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1343</guid>
@@ -4281,7 +4196,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Slider Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1375</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/02/29/slider-block/</link>
 		<pubDate>Thu, 29 Feb 2024 07:38:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1375</guid>
@@ -4376,7 +4291,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Data Table Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1378</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/02/29/data-table-block/</link>
 		<pubDate>Thu, 29 Feb 2024 07:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1378</guid>
@@ -4454,7 +4369,7 @@
 							</item>
 					<item>
 		<title><![CDATA[JavaScript Code Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1449</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/04/03/javascript-code-block/</link>
 		<pubDate>Wed, 03 Apr 2024 12:57:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1449</guid>
@@ -4536,7 +4451,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Global Student Visa Cost]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1502</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/05/22/global-student-visa-cost/</link>
 		<pubDate>Wed, 22 May 2024 04:58:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1502</guid>
@@ -4627,7 +4542,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Export Block]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1682</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/06/12/export-block/</link>
 		<pubDate>Wed, 12 Jun 2024 11:23:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1682</guid>
@@ -4644,24 +4559,24 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
-<!-- wp:inseri-core/text-editor {"blockId":"KaCV6b1xBVHc4v4LUH6u1","blockName":"textEditor","editable":true,"content":"{\n    \u0022data\u0022: [\n        {\n            \u0022x\u0022: [\n                \u0022giraffes\u0022,\n                \u0022orangutans\u0022,\n                \u0022monkeys\u0022\n            ],\n            \u0022y\u0022: [\n                20,\n                14,\n                23\n            ],\n            \u0022type\u0022: \u0022bar\u0022\n        }\n    ],\n    \u0022layout\u0022:{\u0022height\u0022:500}\n}","contentType":"application/json","label":"Feel free to edit the JSON text below"} -->
-<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1&quot;,&quot;blockName&quot;:&quot;textEditor&quot;,&quot;content&quot;:&quot;{\n    \&quot;data\&quot;: [\n        {\n            \&quot;x\&quot;: [\n                \&quot;giraffes\&quot;,\n                \&quot;orangutans\&quot;,\n                \&quot;monkeys\&quot;\n            ],\n            \&quot;y\&quot;: [\n                20,\n                14,\n                23\n            ],\n            \&quot;type\&quot;: \&quot;bar\&quot;\n        }\n    ],\n    \&quot;layout\&quot;:{\&quot;height\&quot;:500}\n}&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-editor {"blockId":"KaCV6b1xBVHc4v4LUH6u1","editable":true,"content":"%7B%0A%20%20%20%20%22data%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22x%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22giraffes%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22orangutans%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22monkeys%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22y%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2014%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2023%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22bar%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22layout%22%3A%7B%22height%22%3A500%7D%0A%7D","contentType":"application/json","label":"Feel free to edit the JSON text below","metadata":{"name":"textEditor"}} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1&quot;,&quot;content&quot;:&quot;%7B%0A%20%20%20%20%22data%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22x%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22giraffes%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22orangutans%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22monkeys%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22y%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2014%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2023%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22bar%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22layout%22%3A%7B%22height%22%3A500%7D%0A%7D&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;textEditor&quot;}}">is loading ...</div>
 <!-- /wp:inseri-core/text-editor -->
 
-<!-- wp:inseri-core/plotly {"blockId":"hrbGpj0iDhYFnrD124Ene","blockName":"plotly","inputFull":"KaCV6b1xBVHc4v4LUH6u1/content","outputs":[["onClick","click"]]} -->
-<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;hrbGpj0iDhYFnrD124Ene&quot;,&quot;blockName&quot;:&quot;plotly&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:&quot;&quot;,&quot;inputData&quot;:&quot;&quot;,&quot;inputFull&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1/content&quot;,&quot;inputLayout&quot;:&quot;&quot;,&quot;outputs&quot;:[[&quot;onClick&quot;,&quot;click&quot;]]}">is loading ...</div>
+<!-- wp:inseri-core/plotly {"blockId":"hrbGpj0iDhYFnrD124Ene","inputFull":"KaCV6b1xBVHc4v4LUH6u1/content","outputs":[["onClick","click"]],"metadata":{"name":"plotly"}} -->
+<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;hrbGpj0iDhYFnrD124Ene&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:&quot;&quot;,&quot;inputData&quot;:&quot;&quot;,&quot;inputFull&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1/content&quot;,&quot;inputLayout&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;plotly&quot;},&quot;outputs&quot;:[[&quot;onClick&quot;,&quot;click&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/plotly -->
 
 <!-- wp:paragraph -->
 <p>You can try to click on one of the columns and the corresponding value will be shown dynamically below in the <strong>Text Viewer</strong> block (some small manipulation was done in the <strong>Python Code</strong> block, which runs automatically and is invisible to the visitor). Also, feel free to edit the JSON input used to generate the plot.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/python {"blockId":"sopWCY58UGn8FxJdAvbIA","inputs":{"selected_value":"hrbGpj0iDhYFnrD124Ene/onClick"},"outputs":[["res","application/json"]],"blockName":"python","mode":"editor","height":63,"content":"res = {selected_value[0][\u0022x\u0022]:selected_value[0][\u0022y\u0022]}","isVisible":false,"autoTrigger":true} -->
-<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:true,&quot;blockId&quot;:&quot;sopWCY58UGn8FxJdAvbIA&quot;,&quot;blockName&quot;:&quot;python&quot;,&quot;content&quot;:&quot;res = {selected_value[0][\&quot;x\&quot;]:selected_value[0][\&quot;y\&quot;]}&quot;,&quot;editable&quot;:false,&quot;height&quot;:63,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{&quot;selected_value&quot;:&quot;hrbGpj0iDhYFnrD124Ene/onClick&quot;},&quot;isVisible&quot;:false,&quot;label&quot;:&quot;&quot;,&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;application/json&quot;]]}">is loading ...</div>
+<!-- wp:inseri-core/python {"blockId":"sopWCY58UGn8FxJdAvbIA","inputs":{"selected_value":"hrbGpj0iDhYFnrD124Ene/onClick"},"outputs":[["res","application/json"]],"mode":"editor","height":63,"content":"res = {selected_value[0][\u0022x\u0022]:selected_value[0][\u0022y\u0022]}","isVisible":false,"autoTrigger":true,"metadata":{"name":"python"}} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:true,&quot;blockId&quot;:&quot;sopWCY58UGn8FxJdAvbIA&quot;,&quot;content&quot;:&quot;res = {selected_value[0][\&quot;x\&quot;]:selected_value[0][\&quot;y\&quot;]}&quot;,&quot;editable&quot;:false,&quot;height&quot;:63,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{&quot;selected_value&quot;:&quot;hrbGpj0iDhYFnrD124Ene/onClick&quot;},&quot;isVisible&quot;:false,&quot;label&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;python&quot;},&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;application/json&quot;]]}">is loading ...</div>
 <!-- /wp:inseri-core/python -->
 
-<!-- wp:inseri-core/text-viewer {"blockId":"FDCPJq1oSMjVGD5MHLfzq","inputKey":"sopWCY58UGn8FxJdAvbIA/res","blockName":"textViewer","height":60,"label":"Selected Column and the corresponding value"} -->
-<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;FDCPJq1oSMjVGD5MHLfzq&quot;,&quot;blockName&quot;:&quot;textViewer&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;inputKey&quot;:&quot;sopWCY58UGn8FxJdAvbIA/res&quot;,&quot;label&quot;:&quot;Selected Column and the corresponding value&quot;}">is loading ...</div>
+<!-- wp:inseri-core/text-viewer {"blockId":"FDCPJq1oSMjVGD5MHLfzq","inputKey":"sopWCY58UGn8FxJdAvbIA/res","height":60,"label":"Selected Column and the corresponding value","metadata":{"name":"textViewer"}} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;FDCPJq1oSMjVGD5MHLfzq&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;inputKey&quot;:&quot;sopWCY58UGn8FxJdAvbIA/res&quot;,&quot;label&quot;:&quot;Selected Column and the corresponding value&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;textViewer&quot;}}">is loading ...</div>
 <!-- /wp:inseri-core/text-viewer -->
 
 <!-- wp:separator -->
@@ -4672,12 +4587,12 @@
 <p>By clicking on the Export button bellow you will be able to download a zip file with the details needed to recreate this post. Unzip the file and read the <code><strong>readme.md</strong></code> file.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:inseri-core/export {"blockId":"x2IXtbOy2a2dx2dR5CxW1","blockName":"export","postId":1682} -->
-<div class="wp-block-inseri-core-export" data-attributes="{&quot;blockId&quot;:&quot;x2IXtbOy2a2dx2dR5CxW1&quot;,&quot;blockName&quot;:&quot;export&quot;,&quot;postId&quot;:1682}">is loading ...</div>
+<!-- wp:inseri-core/export {"blockId":"x2IXtbOy2a2dx2dR5CxW1","postId":1682,"metadata":{"name":"export"}} -->
+<div class="wp-block-inseri-core-export" data-attributes="{&quot;blockId&quot;:&quot;x2IXtbOy2a2dx2dR5CxW1&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;export&quot;},&quot;postId&quot;:1682}">is loading ...</div>
 <!-- /wp:inseri-core/export -->
 
 <!-- wp:paragraph -->
-<p>For more details please see the corresponding <a href="https://docs.inseri.swiss/blocks/export/" target="_blank" rel="noreferrer noopener">documentation</a>.</p>
+<p>For more details please see the corresponding&nbsp;<a href="https://docs.inseri.swiss/blocks/export/" target="_blank" rel="noreferrer noopener">documentation</a>.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1682</wp:post_id>
@@ -4711,7 +4626,7 @@
 							</item>
 					<item>
 		<title><![CDATA[R Code Block using WebR]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1699</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/08/29/r-code-block-using-webr/</link>
 		<pubDate>Thu, 29 Aug 2024 13:33:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1699</guid>
@@ -4783,7 +4698,7 @@
 						</item>
 					<item>
 		<title><![CDATA[R and Plotly]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1710</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/08/30/r-and-plotly/</link>
 		<pubDate>Fri, 30 Aug 2024 09:16:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1710</guid>
@@ -4842,7 +4757,7 @@
 						</item>
 					<item>
 		<title><![CDATA[R and Plotting]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1715</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/08/30/r-and-plotting/</link>
 		<pubDate>Fri, 30 Aug 2024 12:04:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=1715</guid>
@@ -4899,7 +4814,7 @@
 						</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1777</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/12/wp-global-styles-twentytwentythree/</link>
 		<pubDate>Wed, 12 Apr 2023 08:58:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=5</guid>
@@ -4923,8 +4838,201 @@
 										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
 						</item>
 					<item>
+		<title><![CDATA[Share Block]]></title>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2024/10/18/share-block/</link>
+		<pubDate>Fri, 18 Oct 2024 04:37:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://inseri.swiss/?p=1846</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>The <strong>Share</strong> block enables the guests to share the state of a page with other visitors, allowing them to reproduce it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As an example we will consider the <a href="https://inseri.swiss/2023/03/plotly-chart-block/" data-type="post" data-id="360">Plotly Chart Block</a> post where feel free to edit the json and select a column.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:inseri-core/text-editor {"blockId":"KaCV6b1xBVHc4v4LUH6u1","editable":true,"content":"%7B%0A%20%20%20%20%22data%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22x%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22giraffes%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22orangutans%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22monkeys%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22y%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2014%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2023%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22bar%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22layout%22%3A%7B%22height%22%3A500%7D%0A%7D","contentType":"application/json","label":"Feel free to edit the JSON text below","metadata":{"name":"textEditor"}} -->
+<div class="wp-block-inseri-core-text-editor" data-attributes="{&quot;blockId&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1&quot;,&quot;content&quot;:&quot;%7B%0A%20%20%20%20%22data%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%22x%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22giraffes%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22orangutans%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22monkeys%22%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22y%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2014%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2023%0A%20%20%20%20%20%20%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20%22bar%22%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22layout%22%3A%7B%22height%22%3A500%7D%0A%7D&quot;,&quot;contentType&quot;:&quot;application/json&quot;,&quot;editable&quot;:true,&quot;height&quot;:150,&quot;isVisible&quot;:true,&quot;label&quot;:&quot;Feel free to edit the JSON text below&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;textEditor&quot;}}">is loading ...</div>
+<!-- /wp:inseri-core/text-editor -->
+
+<!-- wp:inseri-core/plotly {"blockId":"hrbGpj0iDhYFnrD124Ene","inputFull":"KaCV6b1xBVHc4v4LUH6u1/content","outputs":[["onClick","click"]],"metadata":{"name":"plotly"}} -->
+<div class="wp-block-inseri-core-plotly" data-attributes="{&quot;blockId&quot;:&quot;hrbGpj0iDhYFnrD124Ene&quot;,&quot;height&quot;:500,&quot;inputConfig&quot;:&quot;&quot;,&quot;inputData&quot;:&quot;&quot;,&quot;inputFull&quot;:&quot;KaCV6b1xBVHc4v4LUH6u1/content&quot;,&quot;inputLayout&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;plotly&quot;},&quot;outputs&quot;:[[&quot;onClick&quot;,&quot;click&quot;]]}">is loading ...</div>
+<!-- /wp:inseri-core/plotly -->
+
+<!-- wp:paragraph -->
+<p>You can try to click on one of the columns and the corresponding value will be shown dynamically below in the <strong>Text Viewer</strong> block (some small manipulation was done in the <strong>Python Code</strong> block, which runs automatically and is invisible to the visitor). Also, feel free to edit the JSON input used to generate the plot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/python {"blockId":"sopWCY58UGn8FxJdAvbIA","inputs":{"selected_value":"hrbGpj0iDhYFnrD124Ene/onClick"},"outputs":[["res","application/json"]],"mode":"editor","height":63,"content":"res%20%3D%20%7Bselected_value%5B0%5D%5B%22x%22%5D%3Aselected_value%5B0%5D%5B%22y%22%5D%7D","isVisible":false,"autoTrigger":true,"metadata":{"name":"python"}} -->
+<div class="wp-block-inseri-core-python" data-attributes="{&quot;autoTrigger&quot;:true,&quot;blockId&quot;:&quot;sopWCY58UGn8FxJdAvbIA&quot;,&quot;content&quot;:&quot;res%20%3D%20%7Bselected_value%5B0%5D%5B%22x%22%5D%3Aselected_value%5B0%5D%5B%22y%22%5D%7D&quot;,&quot;editable&quot;:false,&quot;height&quot;:63,&quot;inputCode&quot;:&quot;&quot;,&quot;inputs&quot;:{&quot;selected_value&quot;:&quot;hrbGpj0iDhYFnrD124Ene/onClick&quot;},&quot;isVisible&quot;:false,&quot;label&quot;:&quot;&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;python&quot;},&quot;mode&quot;:&quot;editor&quot;,&quot;outputs&quot;:[[&quot;res&quot;,&quot;application/json&quot;]]}">is loading ...</div>
+<!-- /wp:inseri-core/python -->
+
+<!-- wp:inseri-core/text-viewer {"blockId":"FDCPJq1oSMjVGD5MHLfzq","inputKey":"sopWCY58UGn8FxJdAvbIA/res","height":60,"label":"Selected Column and the corresponding value","metadata":{"name":"textViewer"}} -->
+<div class="wp-block-inseri-core-text-viewer" data-attributes="{&quot;blockId&quot;:&quot;FDCPJq1oSMjVGD5MHLfzq&quot;,&quot;content&quot;:&quot;&quot;,&quot;height&quot;:60,&quot;inputKey&quot;:&quot;sopWCY58UGn8FxJdAvbIA/res&quot;,&quot;label&quot;:&quot;Selected Column and the corresponding value&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;textViewer&quot;}}">is loading ...</div>
+<!-- /wp:inseri-core/text-viewer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>By clicking on the Share button below, the URL containing all your edits and the selection will be copied to the clipboard. You can open a new browser and paste the URL, or share it with somebody else. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:inseri-core/share {"blockId":"rhALuaQzmpKqAcWnwZTCe","metadata":{"name":"share"}} -->
+<div class="wp-block-inseri-core-share" data-attributes="{&quot;blockId&quot;:&quot;rhALuaQzmpKqAcWnwZTCe&quot;,&quot;copiedText&quot;:&quot;Copied&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;share&quot;},&quot;showIcon&quot;:true,&quot;text&quot;:&quot;Share&quot;}">is loading ...</div>
+<!-- /wp:inseri-core/share -->
+
+<!-- wp:paragraph -->
+<p>Otherwise please open this <a href="https://inseri.swiss/2024/10/share-block/#{&quot;KaCV6b1xBVHc4v4LUH6u1&quot;:{&quot;code&quot;:&quot;{\n    \&quot;data\&quot;: [\n        {\n            \&quot;x\&quot;: [\n                \&quot;giraffes\&quot;,\n                \&quot;orangutans\&quot;,\n                \&quot;monkeys\&quot;\n            ],\n            \&quot;y\&quot;: [\n                20,\n                10,\n                5\n            ],\n            \&quot;type\&quot;: \&quot;bar\&quot;\n        }\n    ],\n    \&quot;layout\&quot;:{\&quot;height\&quot;:500}\n}&quot;},&quot;hrbGpj0iDhYFnrD124Ene&quot;:{&quot;click&quot;:[{&quot;curveNumber&quot;:0,&quot;data&quot;:{&quot;x&quot;:[&quot;giraffes&quot;,&quot;orangutans&quot;,&quot;monkeys&quot;],&quot;y&quot;:[20,10,5],&quot;type&quot;:&quot;bar&quot;},&quot;x&quot;:&quot;orangutans&quot;,&quot;y&quot;:10,&quot;pointIndex&quot;:1}],&quot;hover&quot;:null}}" target="_blank" rel="noreferrer noopener">this link.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more details please see the corresponding&nbsp;<a href="https://docs.inseri.swiss/blocks/share/" target="_blank" rel="noreferrer noopener">documentation</a>.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1846</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-18 06:37:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-18 04:37:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 06:37:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 04:37:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[share-block]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="inseri-core-block"><![CDATA[inseri core block]]></category>
+		<category domain="post_tag" nicename="plotly-chart"><![CDATA[Plotly Chart Block]]></category>
+		<category domain="post_tag" nicename="python-code"><![CDATA[Python Code Block]]></category>
+		<category domain="post_tag" nicename="share"><![CDATA[Share Block]]></category>
+		<category domain="post_tag" nicename="text-editor"><![CDATA[Text Editor Block]]></category>
+		<category domain="post_tag" nicename="text-viewer"><![CDATA[Text Viewer Block]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/12/home/</link>
+		<pubDate>Wed, 12 Apr 2023 09:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://inseri.swiss/?p=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--70)"><!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Search..","width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true} /-->
+
+<!-- wp:heading {"level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<h1 class="wp-block-heading alignwide" style="margin-bottom:0">Playground - inseri core <sup>beta</sup></h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4,"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|60"}},"typography":{"textTransform":"none"}}} -->
+<h4 class="wp-block-heading alignwide" style="margin-bottom:var(--wp--preset--spacing--60);text-transform:none">Scientific and Interactive Gutenberg Blocks for WordPress</h4>
+<!-- /wp:heading -->
+
+<!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","layout":{"type":"grid","columnCount":3}} -->
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-excerpt /-->
+
+<!-- wp:post-date {"format":"F Y","isLink":true} /-->
+
+<!-- wp:spacer {"height":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dspacing\u002d\u002d40)"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"label":"Newer Posts"} /-->
+
+<!-- wp:query-pagination-next {"label":"Older Posts"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query -->
+
+<!-- wp:spacer {"height":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dspacing\u002d\u002d60)"} -->
+<div style="height:var(--wp--preset--spacing--60)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="line-height:1.2">Do you need help?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://inseri.swiss/?page_id=50">Get in Touch</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="line-height:1.2">Do you want to experiment?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":75} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-75"><a class="wp-block-button__link wp-element-button" href="https://inseri.swiss/playground">Try inseri Playground</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"width":75,"fontSize":"small"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-75 has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button" href="https://wordpress.org/plugins/inseri-core/" target="_blank" rel="noreferrer noopener">Get inseri core</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:tag-cloud {"showTagCounts":true,"smallestFontSize":"10pt","largestFontSize":"16pt"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentythree","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or a custom page defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the front page.]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-12 09:23:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-12 09:23:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:12:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:12:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Post Meta]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=34</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/13/post-meta/</link>
 		<pubDate>Thu, 13 Apr 2023 15:00:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/04/post-meta/</guid>
@@ -5000,7 +5108,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Single]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=35</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/13/single/</link>
 		<pubDate>Thu, 13 Apr 2023 15:00:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/04/single/</guid>
@@ -5045,7 +5153,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=467</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/11/header-2/</link>
 		<pubDate>Tue, 11 Apr 2023 09:30:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=467</guid>
@@ -5091,7 +5199,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=502</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/11/footer/</link>
 		<pubDate>Tue, 11 Apr 2023 10:26:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/?p=502</guid>
@@ -5150,7 +5258,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Post Meta]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=528</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/12/post-meta-2/</link>
 		<pubDate>Wed, 12 Apr 2023 17:40:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/2023/04/post-meta/</guid>
@@ -5230,7 +5338,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Page/Post Full Width]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=996</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/06/16/wp-custom-template-blank-full-width/</link>
 		<pubDate>Fri, 16 Jun 2023 14:49:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/2023/06/wp-custom-template-blank-full-width/</guid>
@@ -5265,7 +5373,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://playground.wordpress.net/scope:humble-busy-mountain/?p=1812</link>
+		<link>https://playground.wordpress.net/scope:excited-chic-state/2023/04/12/header/</link>
 		<pubDate>Wed, 12 Apr 2023 09:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://inseri.swiss/?p=9</guid>
@@ -5288,11 +5396,11 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1812</wp:post_id>
+		<wp:post_id>1847</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-12 09:06:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-12 09:06:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-08 04:42:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-08 04:42:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-10-18 13:12:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-18 13:12:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
