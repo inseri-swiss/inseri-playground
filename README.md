@@ -11,7 +11,7 @@ https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.co
 2. Open an empty playground with the same wp and php version and theme https://playground.wordpress.net/?theme=twentytwentythree&wp=6.7&php=8.1&plugin=wordpress-importer
 3. Remove all Posts and Pages
 4. Tools -> Import the exported xml from step 1.
-5. Remove all Posts and Pages: draft and private pages and posts
+5. Remove the **draft** and **private** Posts and Pages
 6. Edit SiteHeader
 
 - move the Search from the Header before the Title, in the same group,
