@@ -8,16 +8,13 @@ https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.co
 ## How to generate `inseriswiss.WordPress.xml`
 
 1. Export all content from https://zi.uzh.ch/whp/science-it/inseri/ -> Tools -> Export
-2. Open an empty playground with the same wp and php version and theme https://playground.wordpress.net/?theme=twentytwentythree&wp=6.7&php=8.1&plugin=wordpress-importer
+2. Open an empty playground with the same wp and php version and theme https://playground.wordpress.net/?theme=twentytwentythree&wp=6.9&php=8.2&plugin=wordpress-importer
 3. Remove all Posts and Pages
-4. Tools -> Import the exported xml from step 1.
+4. Tools -> Import the exported xml from step 1 (Assign to admin)
 5. Remove the **draft** and **private** Posts and Pages
 6. Edit SiteHeader
+   - Keep only search and buttons in the header -> Save
+   - edit Site title: add "Playground - " in the front of "inseri core" -> Save
 
-- move the Search from the Header before the Title, in the same group,
-- remove Header
-- edit Site title: add "Playground - " in the front of "inseri core beta"
-- Save
-
-11. Export all content from your local playground -> Tools -> Export
-12. Update `inseriswiss.WordPress.xml` using the xml from step 8.
+7. Export all content from your local playground -> Tools -> Export
+8. Update `inseriswiss.WordPress.xml` using the xml from step 8.
